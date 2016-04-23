@@ -93,9 +93,40 @@ Being American makes it too easy to spend your money on an array of things. Prop
 
 Bills & Utilities
 -  Consider dropping your cable company and just having internet. There are many options online now and you can get a HD antenna to stream free high def major stations over the air. Less TV has many other benefits of course.
--  
+-  Large cell phone companies are constantly coming up with new plans to lure you in and can be very expensive. Buy a month to month plan or prepaid plans. Google Fi is a great cheap service. You don't always need a new phone find one a year old for $100.
 -  If you keep cable, know that those companies are sharks and put you into 1 year promotion offers that automatically go up after they expire make sure to review what you're paying for and make sure you're in a new promotion.
--  Be more concious of devices and lights you leav eon in the house. Unplug devices you rarely use that still draw power.
+-  Shop around for home owners insurance. Companies will try to raise your premium after 1 year.
+-  Consider a refinance of your home if you can save at least 1% while reducing or keeping the same loan length.
+-  Be more concious of devices and lights you leave on in the house. Unplug devices you rarely use that still draw power.
+-  Your body can acclimate to certain tempuratures so try to put the house temp higher in the summer and lower in the winter.
+
+Auto & Transport: Gas & Fuel
+-  Live closer to work. Seriously a long commute is wasting your time on this earth plus pissing away gas money.
+-  Walk, Ride your bike or public transportation.
+-    Riding your bike is a very important recommendation. It's great for your health and can be done year round with the right clothing. You can take the whole family grovery shopping with bike tralers.
+-  Get a car that suites you needs and nothing more. Having a car bigger than what you need is killing your pocket and a huge waste. You can rent a truck or borrow a friends as needed.
+-  Stop driving like a jackass. Seriously.
+-  Do you really need more than 1 car in the family? More cars means more headaches and yearly costs and if rarely used is money sitting there that could be invested working fo you.
+
+Groceries
+-  Have to find the right mixture of online, grocery store and bulk stores.
+-    Better quality Meats and Produce are usually on sale every week and just have to find the right store.
+-    Take advantage of the apps like iBotta or Walmart savings catcher that give you rewards cash to spend.
+-    Buy pantry items in bulk.
+-    Amazon has a subscribe and save program where you can get 15% off on items your order on a reoccurring basis. This is awesome for diapers, wipes, pet food and random pantry items.
+-    Stretch your groceries thin. Don't go back to do a mjor shop until every item in your pantry and freezer is accounted for. If you make a meal, think of something creative with the leftovers but dont cook the next meal until the leftovers are gone.
+-    Eat meals using your fresh groceries first and your dried/canned foods later.
+
+Entertainment
+-  Use fast food coupons. They're everywhere.
+-  Go to places you don't have to tip.
+-  Split a meal and an appetizer with someone if you can't finish it anyways.
+-  There are many fun things you can do outdoors if you let yourself wander.
+-  Find local festivals and tastings.
+-  Have house/dinner parties vs. going out with friends.
+-  Go out with a certain amount of cash and leave the cards at home.
+-  Happy hour and the cheap stuff. You're drunk anyways...
+-  Eat at home.
 
 ### Step 4: Control Consumption
 
