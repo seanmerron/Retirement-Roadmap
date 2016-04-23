@@ -9,7 +9,7 @@ Disclaimer: This guide is an open and ever-changing list of steps I've compiled 
   - We seek purpose and fulfillment in life but live in a society where money is traded for your limited time on this earth. Financial Freedom allows us to spend more time with our families, free up time to appreciate the earth we live in and gives us the opportunity to work on our own dreams.
 - You only need a credit score if you need a loan.
   - Stop getting sucked into thinking you need more loans & credit cards to build your credit score. You only need a loan when you can't afford something. Stop buying things you can't save for, it's taking years off your retirement.
-- You won't get rich working quickly for the man.
+- You won't get rich quickly while working for the man.
   - This roadmap is to help you learn how to retire early using passive income you generate from your employment savings. To get rich quick usually involves owning a business or some dumb luck.
 
 ## The Roadmap
@@ -88,6 +88,14 @@ Auto
 A key point with insurance is to adjust coverage as your net worth increases. The more stashed up you have, the higher your deductibles can go to reduce reoccurring expenses but still have enough coverage for catastrophic events.
 
 ### Step 3: Lower Expenses
+
+Being American makes it too easy to spend your money on an array of things. Propoganda is everywhere and it's too easy to swipe the card. If you want to speed up your retirement you need to review your monthly reoccurring expenses now that they are in your budget. Reducing your expenses allows more money to start collecting and compounding interest for you today. It's time to get frugal and stop living outside of your means until you've gotten past retirement. It's OK to treat yourself form time to time but the monthly reoccurring expenses have to constantly be evaluated. Here are some tips by category:
+
+Bills & Utilities
+-  Consider dropping your cable company and just having internet. There are many options online now and you can get a HD antenna to stream free high def major stations over the air. Less TV has many other benefits of course.
+-  
+-  If you keep cable, know that those companies are sharks and put you into 1 year promotion offers that automatically go up after they expire make sure to review what you're paying for and make sure you're in a new promotion.
+-  Be more concious of devices and lights you leav eon in the house. Unplug devices you rarely use that still draw power.
 
 ### Step 4: Control Consumption
 
