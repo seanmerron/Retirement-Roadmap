@@ -178,8 +178,37 @@ Don't fall for 0% interest or low rate loans where you think you can do "better"
 
 Get rid of all of your credit cards, it's a nice feeling. If an emergency comes along you don't have money for you can either work with the company on a payment plan, use the equity in your house or figure out another way only getting a credit card as a last resort. 
 
-### Step 6: Long-Term Retirement
+### Step 6: Saving for Retirement
 
-### Step 7: Early Retirement
+**Investment Philosophy**
+My investment choices in the market have ended up as a diversified long-term index fund position of a few simple mutual funds. I tried plenty of times to beat the market and pick winners and pay for over-priced mutual funds and realized that it's too difficult and costly to beat the market when I have limited time to devote to my investments and index funds win anyways most of the time.
 
-### Step 8: Enjoy the Journey
+Index funds are mutual funds that follow certain market indexes like the US stock market, bond market and international markets. They take stock in all companies to gain the benefits of the whole market return. Costs are very important in fund choices and Vanguard funds continue to come out on top in my opinion. It is more important to minimize losses vs. try to maximize gains and this is why diversification is important. You want to make some return every year that can compound vs. going years without a return and this is why diversification between different markets helps.
+
+I choose to diversify in a split between 30% US Stock, 20% International Stock, 25% US Bonds and 25% Real estate. Vanguard admiral (lower cost) fund tickers: VTSAX / VTIAX / VBILX / VGSLX. Vanguard  non-admiral funds: VTSMX / VGTSX / VBIIX / VGSIX. Make sure to convert to admiral shares once you can. Costs, costs, costs make a big different in your returns over time and there are costs hidden through multiple phases of investing.
+
+I choose to use REIT mutual funds instead of actual real estate because I personally don't like the headaches but real estate management can be more rewarding if you choose to go that route. In real estate you can use loans(leverage) to your advantage if done correctly. Keep in mind though at some point your real estate investing becomes a business.
+
+If you are planning to keep your house for a long time you can leverage the equity in the house to work for you in investments vs. letting it sit in the ground doing nothing.
+
+I am not a fan of ETFs for investing. The index ETFs introuce a new cost from the bid/ask spread and also incur trade fees so I'm sticking to the mutual funds.
+
+My portfolio is still a bit stock heavy so if you are in or close to retirement you may want to adjust with more bond holdings to reduce risk. However, even after I retire I anticipate (at this point) to keep this split because I won't be cashing out all at once and will still be in the market for (hopefully) a long time after making minimal withdrawals (4% or less per year). 
+
+If you've heard US bonds and stocks move in opposite directions, that's a myth. You could have years where they are both down so being in other investments like international stock and real estate can help reduce losses. (Diversification)
+
+You want to monitor your portfolios to make sure they stay within your asset allocation % split you desire and it's better to adjust using future contributions vs. buying/selling existing holdings to make changes. When you have a lump sum to deposit consider a dollar cost averaging approach splitting up the contribution over a longer time frame to help mitigate the downside if you are getting in during a high point that you're unaware of.
+
+Control your emotions! When your portfolio value goes down, you're getting things at a discount. Don't sell everything for cheap and lose everything you've been working towards. The market is up and down and eventually you'll collect high returns on the up swing from the cheap shares you obtained.
+
+**Long-Term Retirement**
+Pre-Tax accounts like 401Ks don't offer all funds in the market so find funds that are similar to the ones I mentioned but make sure their expense ratios are low. Target funds are OK but have higher costs and don't have the same level of diversification. Put in the % that your employer matches, it's free money!
+
+Post-Tax Roth IRAs should be maxed out yearly choosing the Vanguard funds I mentioned.
+
+Using this strategy early should set you up pretty well when you can access the funds at 60. You could put more into your 401K if you'd like but I want to retire earlier than 60 so I choose to put the extra money in my early retirement accounts. I'll have plenty for the long term retirement with my current contributions.
+
+**Early Retirement**
+Pay extra on the house
+
+### Step 7: Enjoy the Journey
