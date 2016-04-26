@@ -180,8 +180,7 @@ Get rid of all of your credit cards, it's a nice feeling. If an emergency comes 
 
 ### Step 6: Saving for Retirement
 
-**Investment Philosophy**
-My investment choices in the market have ended up as a diversified long-term index fund position of a few simple mutual funds. I tried plenty of times to beat the market and pick winners and pay for over-priced mutual funds and realized that it's too difficult and costly to beat the market when I have limited time to devote to my investments and index funds win anyways most of the time.
+**Passive Investments**
 
 Index funds are mutual funds that follow certain market indexes like the US stock market, bond market and international markets. They take stock in all companies to gain the benefits of the whole market return. Costs are very important in fund choices and Vanguard funds continue to come out on top in my opinion. It is more important to minimize losses vs. try to maximize gains and this is why diversification is important. You want to make some return every year that can compound vs. going years without a return and this is why diversification between different markets helps.
 
@@ -189,26 +188,42 @@ I choose to diversify in a split between 30% US Stock, 20% International Stock, 
 
 I choose to use REIT mutual funds instead of actual real estate because I personally don't like the headaches but real estate management can be more rewarding if you choose to go that route. In real estate you can use loans(leverage) to your advantage if done correctly. Keep in mind though at some point your real estate investing becomes a business.
 
-If you are planning to keep your house for a long time you can leverage the equity in the house to work for you in investments vs. letting it sit in the ground doing nothing.
+If you are planning to keep your house for a long time you can leverage the equity in the house to work for you in investments vs. letting it sit in the ground doing nothing. This ultimately depends on if you're still trying to grow your nest egg or happy where you're at.
 
 I am not a fan of ETFs for investing. The index ETFs introuce a new cost from the bid/ask spread and also incur trade fees so I'm sticking to the mutual funds.
 
-My portfolio is still a bit stock heavy so if you are in or close to retirement you may want to adjust with more bond holdings to reduce risk. However, even after I retire I anticipate (at this point) to keep this split because I won't be cashing out all at once and will still be in the market for (hopefully) a long time after making minimal withdrawals (4% or less per year). 
+My portfolio is still a bit stock heavy so if you are in retirement or close to it you may want to adjust with more bond holdings to reduce risk. However, even after I retire I anticipate (at this point) to keep this split because I won't be cashing out all at once and will still be in the market for (hopefully) a long time after making minimal withdrawals (4% or less per year). 
 
 If you've heard US bonds and stocks move in opposite directions, that's a myth. You could have years where they are both down so being in other investments like international stock and real estate can help reduce losses. (Diversification)
 
 You want to monitor your portfolios to make sure they stay within your asset allocation % split you desire and it's better to adjust using future contributions vs. buying/selling existing holdings to make changes. When you have a lump sum to deposit consider a dollar cost averaging approach splitting up the contribution over a longer time frame to help mitigate the downside if you are getting in during a high point that you're unaware of.
 
-Control your emotions! When your portfolio value goes down, you're getting things at a discount. Don't sell everything for cheap and lose everything you've been working towards. The market is up and down and eventually you'll collect high returns on the up swing from the cheap shares you obtained.
+Control your emotions! When your portfolio value goes down, you're buying things at a discount. Don't sell everything for cheap and lose everything you've been working towards. The market is up and down and eventually you'll collect high returns on the up swing from the cheap shares you obtained when everyone else ran away.
+
+On average you'll hopefully get more than 5-6% / year from your investments.
 
 **Long-Term Retirement**
+
 Pre-Tax accounts like 401Ks don't offer all funds in the market so find funds that are similar to the ones I mentioned but make sure their expense ratios are low. Target funds are OK but have higher costs and don't have the same level of diversification. Put in the % that your employer matches, it's free money!
 
 Post-Tax Roth IRAs should be maxed out yearly choosing the Vanguard funds I mentioned.
 
-Using this strategy early should set you up pretty well when you can access the funds at 60. You could put more into your 401K if you'd like but I want to retire earlier than 60 so I choose to put the extra money in my early retirement accounts. I'll have plenty for the long term retirement with my current contributions.
+Using this strategy early should set you up pretty well when you can access the funds at 60. You could put more into your 401K if you'd like but I want to retire earlier than 60 so I choose to put the extra money in my early retirement accounts. I'll have plenty for  long term retirement with my current contributions.
 
 **Early Retirement**
-Pay extra on the house
+
+Since I invest in all Vanguard funds, I recommend opening your (early retirement) brokerage account with Vanguard and you'll avoid transaction fees for buying and selling their funds. It's easy to setup money transfers from your checking account and see your asset allocation % to rebalance as needed.
+
+Remember to invest for at least 1 year for tax benefits and even though this is for early retirement, it's still a long term hold positon with small withdrawals at some point in the future before 60.
+
+You may not care for the markets or real estate and would rather just put extra money towards paying off the house early and be OK with the equity sitting there not making any money. Or, pay it off early to earn the interest loss back as a safe return and then sell.
+
+**College**
+
+Save for your kids college! Tax advantages are king so being able to set aside money for them you won't touch that has a different objective is a good idea. Vanguard offers college saving 529 plans for this.
+
+**Funny Money / Gambles**
+
+Take some risks! Long term investing is boring and you'll need something to get the edge off but no more than maybe 5% of your savings. Play the lottery, invest in a stock or IPO (but plan to hold it very long) or go to the casino. Have some fun but stay within your solid budget. The odds are always against you so don't expect anything, but someone's got to win :)  
 
 ### Step 7: Enjoy the Journey
