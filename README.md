@@ -13,6 +13,9 @@ I try to provide specific actions vs. open-ended advice with no details. There a
   - Everyone thinks they need to build credit but in reality it's only to get a better future loan. You only need a loan when you can't afford something. Learning good saving habits form the start can keep you out of the credit world. More on this controversial topic later...
 - You won't get rich working for the man.
   - This roadmap is to help the average working Joe learn how to retire early using passive income you generate from your employment savings. Sorry but to get rich quick usually involves starting a business or some dumb luck.
+- Simplify life
+  - Life can be full of problems and complications that stem from your footprint in the world. The more kids, animals, house sq ft, cars, etc.. that you have the more complicated and thus expensive your life becomes. 
+  - Enjoy your wants and desires but have enough time to appreciate them. Know what enough is. You think you know what you want when you don't have it. Learn to appreciate what you have today because tomorrow may not come.
 
 ## The Roadmap
 
@@ -102,9 +105,11 @@ Bills & Utilities
 -  Consider a refinance of your home if you can save at least 1% while reducing or keeping the same loan length.
 -  Are you in a house that's bigger than what you need? Planning for what you think you may need usually results in lost money. Don't solve problems that don't exist yet. Consider downsizing to save time and money wasted.
 -    You'll find many (not all) people in more expensive neighborhoods are strapped, fake and stuck trying to keep up with the Joneses. Being in the mid-lower tier neighborhoods can be a humbling experience full of neighborly people.
+-    Consider renting vs. owning a home. The lost interest, insurance, taxes and maintenance costs of a home can get close enough to lost rent in my opinion to make sense. Homeowners know there's always a new project and reducing complications can free up time. However, a mortgage can be a great form of forced savings for those who have a hard time budgeting. I think the comparison ultimately comes down to intangible benefits vs. financial. Passive investments paying for rent is the same as not having a house payment.
 -  Be more conscious of devices and lights you leave on in the house. Unplug devices you rarely use that still draw power when they are off.
 -  Your body can acclimate to certain temperatures so try to put the house temp higher in the summer and lower in the winter.
 -  Check http://www.benefits.gov/ for grants and tax credits that may apply to you. There is a ton for students, lower income individuals and children.
+-  Check to see if you have any unclaimed property at https://www.unclaimed.org/
 
 Auto & Transport: Gas & Fuel
 -  Live closer to work, seriously. A long commute is wasting your time on this earth plus pissing away gas money and your cars value.
@@ -149,6 +154,12 @@ Start a Material Stash
 - This will help you from dipping into your monthly budget or savings with material expenses. Use money already sitting around the house in material form :)
 - Never impulse buy, always shop around and wait a few days before making any purchase. This is a capitalist environment with the beauty of competition.
 - I don't let my material stash get over $1,000 and deposit extra money into savings.
+
+Kids
+- Kids are great and there are people that want more and more and that is great. However, kids are expensive. I really don't want to discourage people form having kids but it's important to talk about them.
+- It's very important to me to make sure I don't have more kids than I can give enough time/love to and unfortunately money can have an impact on that.
+- Kids need daycare, have higher medical expenses, diapers, formula, birth costs, missed work from many sicks days, more food, need entertainment, bigger cars, sports and so on... 
+- Just consider your financial situation before having kids ad adjust as needed. You need time and money to continue with your personal goals while also being a good parent.
 
 ### Step 4: One Month of Expenses + $1,000 Buffer
 
@@ -218,6 +229,8 @@ Remember to invest for at least 1 year for tax benefits and even though this is 
 
 You may not care for the markets or real estate and would rather just put extra money towards paying off the house early and be OK with the equity sitting there not making any money. Or, pay it off early to earn the interest loss back as a safe return and then sell.
 
+Be an entrepreneur on the side! Starting a business can be a quick way to earn a high income to speed up early retirement. However, make sure to minimize startup costs and do something you're passionate about.
+
 **College**
 
 Save for your kids college! Tax advantages are king so being able to set aside money for them you won't touch that has a different objective is a good idea. Vanguard offers college saving 529 plans for this.
@@ -229,6 +242,8 @@ Take some risks! Long term investing is boring and you'll need something to get 
 ### Step 7: Enjoy the Journey
 
 You may have to hunker down for a bit to get above water but should remember to enjoy the journey along the way. Have fun talking about money with your family and reward yourselves when you reach certain milestones. You could die tomorrow so give yourself a plan that provides some peace knowing that it's just a matter of time. 
+
+Maybe reduce your savings rate once you're out of debt if you need a little extra money to enjoy life as long as you're still happy with your retirement plan. You don't have to live a strapped life but I think it's neccessary until you're out of debt to learn a lesson about overspending.
 
 A downfall of being human is that is always seems we want the next thing in life. We get bored quick and ready for change shortly after something new. Be mindful of the present moment because that's all you ever have. Take a breath and just enjoy being alive.
 
