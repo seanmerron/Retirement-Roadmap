@@ -2,7 +2,7 @@
 
 This guide is an open and ever-changing list of steps I've compiled from various readings and life mistakes to share my journey towards retirement and for others to use at their own risk to build their own roadmap. 
 
-I try to provide specific actions vs. open-ended steps with no specifics. There are many options out there and I'm sure this will change as I continue to learn.
+I try to provide specific actions vs. open-ended advice with no details. There are many options out there and I'm sure this will change as I continue to learn.
 
 *This page can be edited by anyone [here] (https://github.com/seanmerron/Retirement-Roadmap/edit/master/README.md) using [Markdown] (https://guides.github.com/features/mastering-markdown/) syntax*
 
@@ -104,6 +104,7 @@ Bills & Utilities
 -    You'll find many (not all) people in more expensive neighborhoods are strapped, fake and stuck trying to keep up with the Joneses. Being in the mid-lower tier neighborhoods can be a humbling experience full of neighborly people.
 -  Be more conscious of devices and lights you leave on in the house. Unplug devices you rarely use that still draw power when they are off.
 -  Your body can acclimate to certain temperatures so try to put the house temp higher in the summer and lower in the winter.
+-  Check http://www.benefits.gov/ for grants and tax credits that may apply to you. There is a ton for students, lower income individuals and children.
 
 Auto & Transport: Gas & Fuel
 -  Live closer to work, seriously. A long commute is wasting your time on this earth plus pissing away gas money and your cars value.
@@ -150,6 +151,12 @@ Start a Material Stash
 - I don't let my material stash get over $1,000 and deposit extra money into savings.
 
 ### Step 4: One Month of Expenses + $1,000 Buffer
+
+It's important to not live paycheck to paycheck and the first way to do that is to have enough in your checking account for 1 month of expenses + a $1,000 buffer for unexpected/emergency expenses.
+
+You have a budget now so you know exactly how much you spend monthly. Use the leftover in your Misc expenses budget at the end of the month to start saving this amount up. You'll have the peace of mind knowing each month you have enough for all of your bills and this months income is preparing for the next month so you don't have to countdown until payday anymore.
+
+This peace of mind is important before tackling debt. If you need more peace of mind due to variable income or job insecutiy then you may choose to increase the # of months of expenses saved before moving onto the next step.
 
 ### Step 5: Eliminate Debt
 
