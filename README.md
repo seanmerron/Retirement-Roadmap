@@ -227,3 +227,9 @@ Save for your kids college! Tax advantages are king so being able to set aside m
 Take some risks! Long term investing is boring and you'll need something to get the edge off but no more than maybe 5% of your savings. Play the lottery, invest in a stock or IPO (but plan to hold it very long) or go to the casino. Have some fun but stay within your solid budget. The odds are always against you so don't expect anything, but someone's got to win :)  
 
 ### Step 7: Enjoy the Journey
+
+You may have to hunker down for a bit to get above water but should remember to enjoy the journey along the way. Have fun talking about money with your family and reward yourselves when you reach certain milestones. You could die tomorrow so give yourself a plan that provides some peace knowing that it's just a matter of time. 
+
+A downfall of being human is that is always seems we want the next thing in life. We get bored quick and ready for change shortly after something new. Be mindful of the present moment because that's all you ever have. Take a breath and just enjoy being alive.
+
+Once you're passive income from retirement investment withdrawals can start paying for your monthly expenses, congrats you can retire! You have the power of savings! Work when you want to and enjoy more special moments with your free time. This is my roadmap and I look forward to sharing future steps on the other side.
