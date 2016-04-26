@@ -117,7 +117,7 @@ Auto & Transport: Gas & Fuel
 Groceries
 -  Have to find the right mixture of online, grocery store and bulk stores.
 -    Better quality Meats and Produce are usually on sale every week and just have to find the right store.
--    Take advantage of apps like iBotta or Walmart savings catcher that give you rewards cash to spend.
+-    Clip coupons and take advantage of apps like iBotta or Walmart savings catcher that give you rewards cash to spend.
 -    Buy pantry items at bulk stores.
 -    Amazon has a subscribe and save program where you can get 15% off on items you order on a reoccurring basis. This is awesome for diapers, wipes, pet food and random pantry items.
 -    Stretch your groceries thin. Don't go back to do a major shop until every item in your pantry and freezer is accounted for. If you make a meal, think of something creative with the leftovers but don’t cook the next meal until the leftovers are gone. I can't stress enough how much this bullet will save you.
@@ -142,23 +142,41 @@ PAY WITH CASH
 - I take out the cash for Groceries and Entertainment at the beginning of the month and make it last knowing exactly how much I have left. It helps with sticking to your budget.
 
 Start a Material Stash
-- A great habit for you and teaching your kids early is to buy new material items with old material items money. Hobbies come and go and your wants/desires change over time. Learning to sell old toys before buying the next toy is a great habit to learn thoughtful spending and control clutter
+- A great habit for you and teaching your kids early is to buy new materialistic items with old materialistic item's money. Hobbies come and go and your wants/desires change over time. Learning to sell old toys before buying the next toy is a great habit to learn thoughtful spending and control clutter
 - Start selling old items on Craigslist, OfferUp, eBay or have a yard sale. You'll learn which of these tools if better for certain items.
-- Don't be afraid to let go, if you think you'll want it later you'll probably be able to find it newer on Craigslist or eBay down the road for cheaper. Think of Craigslist as your temporary storage. 
+- Don't be afraid to let go. If you think you'll want something later you'll probably be able to find it newer on Craigslist or eBay down the road for cheaper. Think of this as free temporary storage. 
 - Start going around the house and building this stash. If you haven't used something in over 1 year, let it go, it's just sitting there losing value. De-cluttering your house is a rewarding feeling.
 - This will help you from dipping into your monthly budget or savings with material expenses. Use money already sitting around the house in material form :)
-- Never impulse buy, always shop around and wait a few days before making any purchase. This is a capitalism environment with the beauty of competition.
+- Never impulse buy, always shop around and wait a few days before making any purchase. This is a capitalist environment with the beauty of competition.
 - I don't let my material stash get over $1,000 and deposit extra money into savings.
 
 ### Step 4: One Month of Expenses + $1,000 Buffer
 
 It's important to not live paycheck to paycheck and the first way to do that is to have enough in your checking account for 1 month of expenses + a $1,000 buffer for unexpected/emergency expenses.
 
-You have a budget now so you know exactly how much you spend monthly. Use the leftover in your Misc expenses budget at the end of the month to start saving this amount up. You'll have the peace of mind knowing each month you have enough for all of your bills and this months income is preparing for the next month so you don't have to countdown until payday anymore.
+You have a budget now so you know exactly how much you spend monthly. Use the leftover in your Misc expenses budget at the end of the month to start saving this amount up. You'll have enough for all of your monthly expenses and this months paychecks are preparing for the next month so you don't have to countdown until payday anymore.
 
 This peace of mind is important before tackling debt. If you need more peace of mind due to variable income or job insecutiy then you may choose to increase the # of months of expenses saved before moving onto the next step.
 
 ### Step 5: Eliminate Debt
+
+A credit report lists your credit history and you are entitled to 3 free reports yearly from https://www.annualcreditreport.com. Run the report to understand what is outstanding and close any old accounts. This is also a good report to check for identify theft issues.
+
+A credit score is a number the credit bureus come up with to help lenders judge your credit risk. You have to pay for this number unless you get it within Mint.com like I mentioned earlier. It's not worth paying for in my opinion, you can get a good idea from your credit report.
+-  Some non-lenders also use your credit score to determine risk like insurance companies, landloards, utilities, etc... However, usually you can offer to pay for things up front if you have no or bad credit history, co-sign or show proof of income.
+-  I really hate credit scores because it uses things like age of accounts, available credit and # of accounts to give you better scores. I think this is BS and causes people to get into the credit world when they're not ready for the risks. An important effort of mine in the future is to explain how to get through life without credit. People think this is wierd which means I'm probably onto something...
+
+I'm not exactly sure when bankruptcy should be an option but if your monthly debt is exceeding your income then you're probably there. Aside from that, eliminating debt is essential to getting on your feet and working towards retirement. 
+
+Debts that have higher interest rates should be tackled first but some people prefer the incremental satisfaction of the "snowball" method which involes paying off the smallest balance debts first and then moving eventually to the bigger balances debts to provide frequent "woohoo" points for motiviation/reward. Do whichever works for you.
+
+Some large debts like auto loans can be paid off by selling the car and downgrading to something that is "enough" for your lifestyle. Leasing and buying cars/phones new should be avoided to prevent wasting money. Buying something a few years old will typically get you the better deal or you can drive around an old beater if you're up for it :)
+
+I don't place a mortgage in this category and will be discussed later in early retirement.
+
+Don't fall for 0% interest or low rate loans where you think you can do "better" in the market. These increase your monthly expenses and usually cause you to buy things you don't have the savings for. Paying with savings will help you look for the best deal. There are cases where debt (leverage) can be used for real estate investing but we'll touch on that in early retirement.
+
+Get rid of all of your credit cards, it's a nice feeling. If an emergency comes along you don't have money for you can either work with the company on a payment plan, use the equity in your house or figure out another way only getting a credit card as a last resort. 
 
 ### Step 6: Long-Term Retirement
 
