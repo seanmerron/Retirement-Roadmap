@@ -1,4 +1,4 @@
-# Retirement-Roadmap
+# Retirement Roadmap
 
 This guide is an open and ever-changing list of steps I've compiled from various readings and life mistakes to share my journey towards retirement and for others to use at their own risk to build their own roadmap. 
 
@@ -14,7 +14,7 @@ I try to provide specific actions vs. open-ended advice with no details. There a
 - You won't get rich working for the man.
   - This roadmap is to help the average working Joe learn how to retire early using passive income you generate from your employment savings. Sorry but to get rich quick usually involves starting a business or some dumb luck.
 - Simplify life
-  - Life can be full of problems and complications that stem from your footprint in the world. The more kids, animals, house sq ft, cars, etc.. that you have the more complicated and thus expensive your life becomes. 
+  - Life can be full of problems and complications that stem from your footprint in the world. The more kids, animals, house sq. ft., cars, etc.. that you have the more complicated and thus expensive your life becomes. 
   - Enjoy your wants and desires but have enough time to appreciate them. Know what enough is. You think you know what you want when you don't have it. Learn to appreciate what you have today because tomorrow may not come.
 
 ## The Roadmap
@@ -105,9 +105,9 @@ Bills & Utilities
 -  Consider a refinance of your home if you can save at least 1% while reducing or keeping the same loan length.
 -  Are you in a house that's bigger than what you need? Planning for what you think you may need usually results in lost money. Don't solve problems that don't exist yet. Consider downsizing to save time and money wasted.
 -    You'll find many (not all) people in more expensive neighborhoods are strapped, fake and stuck trying to keep up with the Joneses. Being in the mid-lower tier neighborhoods can be a humbling experience full of neighborly people.
--    Consider renting vs. owning a home. The lost interest, insurance, taxes and maintenance costs of a home can get close enough to lost rent in my opinion to make sense. Homeowners know there's always a new project and reducing complications can free up time. However, a mortgage can be a great form of forced savings for those who have a hard time budgeting. I think the comparison ultimately comes down to intangible benefits vs. financial. Passive investments paying for rent is the same as not having a house payment.
+-    Consider renting vs. owning a home. The lost interest, insurance, taxes and maintenance costs of a home can get close enough to lost rent in my opinion for renting to make sense. Homeowners know there's always a new project and reducing complications can free up time/money. However, a mortgage can be a great form of forced savings for those who have a hard time budgeting. I think the comparison ultimately comes down to intangible benefits vs. financial reasons. Passive investments paying for rent is the same to me as paying off a house. Also, you don't want to buy unless you'll be in the house for at least 5 years.
 -  Be more conscious of devices and lights you leave on in the house. Unplug devices you rarely use that still draw power when they are off.
--  Your body can acclimate to certain temperatures so try to put the house temp higher in the summer and lower in the winter.
+-  Your body can acclimate to certain temperatures so try to put the house temp higher in the summer and lower in the winter. Use your windows with a box fan.
 -  Check http://www.benefits.gov/ for grants and tax credits that may apply to you. There is a ton for students, lower income individuals and children.
 -  Check to see if you have any unclaimed property at https://www.unclaimed.org/
 
@@ -118,6 +118,7 @@ Auto & Transport: Gas & Fuel
 -  Get a car that suites you needs and nothing more. Having a car bigger than what you need is killing your pocket and a huge waste. You can rent a truck or borrow a friends as needed.
 -  Stop driving like a jackass.
 -  Do you really need more than 1 car in the family? More cars means more headaches and yearly costs and if rarely used is money sitting there that could be invested working for you or to pay off debt.
+-  Plan trips to make multiple stops along the way to prevent unnecessary extra trips.
 
 Groceries
 -  Have to find the right mixture of online, grocery store and bulk stores.
@@ -139,9 +140,10 @@ Entertainment
 -  Go out with a certain amount of cash and leave the cards at home.
 -  Happy hour and the cheap alcohol. You're not baller and drunk anyways...
 -  Eat at home.
+-  Take advantage of your local rec center and library.
 
 PAY WITH CASH
--  Don't get sucked into rewards cards that can get you 3% or less cash back or equivalent miles (I've done the math). Using cash can save you ~15% per month because of the psychological effects of handing someone your cash. I didn't believe it at first either but its true just try it.
+-  Don't get sucked into rewards cards that can get you 3% or less cash back or equivalent miles (I've done the math). Using cash can save you ~15% per month because of the psychological effects of handing someone your cash. I didn't believe it at first either but it’s true just try it.
 - You don't see the random tip line on a receipt when you pay with cash.
 - It's a truly gratifying feeling not having any credit cards.
 - I take out the cash for Groceries and Entertainment at the beginning of the month and make it last knowing exactly how much I have left. It helps with sticking to your budget.
@@ -156,30 +158,30 @@ Start a Material Stash
 - I don't let my material stash get over $1,000 and deposit extra money into savings.
 
 Kids
-- Kids are great and there are people that want more and more and that is great. However, kids are expensive. I really don't want to discourage people form having kids but it's important to talk about them.
+- Kids are great and there are people that want more and more and that is great. However, kids are expensive. I really don't want to discourage people from having kids but it's important to talk about them.
 - It's very important to me to make sure I don't have more kids than I can give enough time/love to and unfortunately money can have an impact on that.
-- Kids need daycare, have higher medical expenses, diapers, formula, birth costs, missed work from many sicks days, more food, need entertainment, bigger cars, sports and so on... 
-- Just consider your financial situation before having kids ad adjust as needed. You need time and money to continue with your personal goals while also being a good parent.
+- Kids need daycare, have higher medical expenses, diapers, formula, birth costs, missed work from many sick days, more food, need entertainment, bigger cars, sports and so on... 
+- Just consider your financial situation before having kids and adjust as needed. You need time and money to continue with your personal goals while also being a good parent.
 
 ### Step 4: One Month of Expenses + $1,000 Buffer
 
 It's important to not live paycheck to paycheck and the first way to do that is to have enough in your checking account for 1 month of expenses + a $1,000 buffer for unexpected/emergency expenses.
 
-You have a budget now so you know exactly how much you spend monthly. Use the leftover in your Misc expenses budget at the end of the month to start saving this amount up. You'll have enough for all of your monthly expenses and this months paychecks are preparing for the next month so you don't have to countdown until payday anymore.
+You have a budget now so you know exactly how much you spend monthly. Use the leftover in your Misc expenses budget at the end of the month to start saving this amount up. You'll have enough for all of your monthly expenses and this month’s paychecks are preparing for the next month so you don't have to countdown until payday anymore.
 
-This peace of mind is important before tackling debt. If you need more peace of mind due to variable income or job insecutiy then you may choose to increase the # of months of expenses saved before moving onto the next step.
+This peace of mind is important before tackling debt. If you need more peace of mind due to variable income or job insecurity then you may choose to increase the # of months of expenses saved before moving onto the next step.
 
 ### Step 5: Eliminate Debt
 
 A credit report lists your credit history and you are entitled to 3 free reports yearly from https://www.annualcreditreport.com. Run the report to understand what is outstanding and close any old accounts. This is also a good report to check for identify theft issues.
 
-A credit score is a number the credit bureus come up with to help lenders judge your credit risk. You have to pay for this number unless you get it within Mint.com like I mentioned earlier. It's not worth paying for in my opinion, you can get a good idea from your credit report.
--  Some non-lenders also use your credit score to determine risk like insurance companies, landloards, utilities, etc... However, usually you can offer to pay for things up front if you have no or bad credit history, co-sign or show proof of income.
--  I really hate credit scores because it uses things like age of accounts, available credit and # of accounts to give you better scores. I think this is BS and causes people to get into the credit world when they're not ready for the risks. An important effort of mine in the future is to explain how to get through life without credit. People think this is wierd which means I'm probably onto something...
+A credit score is a number the credit bureaus come up with to help lenders judge your credit risk. You have to pay for this number unless you get it within Mint.com like I mentioned earlier. It's not worth paying for in my opinion, you can get a good idea from your credit report.
+-  Some non-lenders also use your credit score to determine risk like insurance companies, landlords, utilities, etc... However, usually you can offer to pay for things up front if you have no or bad credit history, co-sign or show proof of income.
+-  I really hate credit scores because it uses things like age of accounts, available credit and # of accounts to give you better scores. I think this is BS and causes people to get into the credit world when they're not ready for the risks. An important effort of mine in the future is to explain how to get through life without credit. People think this is weird which means I'm probably onto something...
 
 I'm not exactly sure when bankruptcy should be an option but if your monthly debt is exceeding your income then you're probably there. Aside from that, eliminating debt is essential to getting on your feet and working towards retirement. 
 
-Debts that have higher interest rates should be tackled first but some people prefer the incremental satisfaction of the "snowball" method which involes paying off the smallest balance debts first and then moving eventually to the bigger balances debts to provide frequent "woohoo" points for motiviation/reward. Do whichever works for you.
+Debts that have higher interest rates should be tackled first but some people prefer the incremental satisfaction of the "snowball" method which involves paying off the smallest balance debts first and then moving eventually to the bigger balances debts to provide frequent "woohoo" points for motivation/reward. Do whichever works for you.
 
 Some large debts like auto loans can be paid off by selling the car and downgrading to something that is "enough" for your lifestyle. Leasing and buying cars/phones new should be avoided to prevent wasting money. Buying something a few years old will typically get you the better deal or you can drive around an old beater if you're up for it :)
 
@@ -197,11 +199,11 @@ Index funds are mutual funds that follow certain market indexes like the US stoc
 
 I choose to diversify in a split between 30% US Stock, 20% International Stock, 25% US Bonds and 25% Real estate. Vanguard admiral (lower cost) fund tickers: VTSAX / VTIAX / VBILX / VGSLX. Vanguard  non-admiral funds: VTSMX / VGTSX / VBIIX / VGSIX. Make sure to convert to admiral shares once you can. Costs, costs, costs make a big different in your returns over time and there are costs hidden through multiple phases of investing.
 
-I choose to use REIT mutual funds instead of actual real estate because I personally don't like the headaches but real estate management can be more rewarding if you choose to go that route. In real estate you can use loans(leverage) to your advantage if done correctly. Keep in mind though at some point your real estate investing becomes a business.
+I choose to use REIT mutual funds instead of actual real estate because I personally don't like the headaches but real estate management can be more rewarding if you choose to go that route. In real estate you can use loans (leverage) to your advantage if done correctly. Keep in mind though at some point your real estate investing becomes a business.
 
 If you are planning to keep your house for a long time you can leverage the equity in the house to work for you in investments vs. letting it sit in the ground doing nothing. This ultimately depends on if you're still trying to grow your nest egg or happy where you're at.
 
-I am not a fan of ETFs for investing. The index ETFs introuce a new cost from the bid/ask spread and also incur trade fees so I'm sticking to the mutual funds.
+I am not a fan of ETFs for investing. The index ETFs introduce a new cost from the bid/ask spread and also incur trade fees so I'm sticking to the mutual funds.
 
 My portfolio is still a bit stock heavy so if you are in retirement or close to it you may want to adjust with more bond holdings to reduce risk. However, even after I retire I anticipate (at this point) to keep this split because I won't be cashing out all at once and will still be in the market for (hopefully) a long time after making minimal withdrawals (4% or less per year). 
 
@@ -209,7 +211,7 @@ If you've heard US bonds and stocks move in opposite directions, that's a myth. 
 
 You want to monitor your portfolios to make sure they stay within your asset allocation % split you desire and it's better to adjust using future contributions vs. buying/selling existing holdings to make changes. When you have a lump sum to deposit consider a dollar cost averaging approach splitting up the contribution over a longer time frame to help mitigate the downside if you are getting in during a high point that you're unaware of.
 
-Control your emotions! When your portfolio value goes down, you're buying things at a discount. Don't sell everything for cheap and lose everything you've been working towards. The market is up and down and eventually you'll collect high returns on the up swing from the cheap shares you obtained when everyone else ran away.
+Control your emotions! When your portfolio value goes down, you're buying things at a discount. Don't sell everything for cheap and lose everything you've been working towards. The market is up and down and eventually you'll collect high returns on the upswing from the cheap shares you obtained when everyone else ran away.
 
 On average you'll hopefully get more than 5-6% / year from your investments.
 
@@ -219,9 +221,11 @@ Pre-Tax accounts like 401Ks don't offer all funds in the market so find funds th
 
 Post-Tax Roth IRAs should be maxed out yearly choosing the Vanguard funds I mentioned.
 
-Using this strategy early should set you up pretty well when you can access the funds at 60. You could put more into your 401K if you'd like but I want to retire earlier than 60 so I choose to put the extra money in my early retirement accounts. I'll have plenty for  long term retirement with my current contributions.
+Using this strategy early should set you up pretty well when you can access the funds at 60. You could put more into your 401K if you'd like but I want to retire earlier than 60 so I choose to put the extra money in my early retirement accounts. I'll have plenty for long term retirement with my current contributions.
 
 **Early Retirement**
+
+This may sound crazy but saving at least 50% of your monthly income is an important step towards retiring early and not impossible. Keep at it and you'll get there while increasing income and decreasing expenses. If you've been in the same job for a while, consider looking for new opportunities while you have a job. Yearly raises in your current job are usually very small and may require you to change companies for the large increase you desire.
 
 Since I invest in all Vanguard funds, I recommend opening your (early retirement) brokerage account with Vanguard and you'll avoid transaction fees for buying and selling their funds. It's easy to setup money transfers from your checking account and see your asset allocation % to rebalance as needed.
 
@@ -233,7 +237,7 @@ Be an entrepreneur on the side! Starting a business can be a quick way to earn a
 
 **College**
 
-Save for your kids college! Tax advantages are king so being able to set aside money for them you won't touch that has a different objective is a good idea. Vanguard offers college saving 529 plans for this.
+Save for your kid’s college! Tax advantages are king so being able to set aside money for them you won't touch that has a different objective is a good idea. Vanguard offers college saving 529 plans for this.
 
 **Funny Money / Gambles**
 
@@ -243,7 +247,7 @@ Take some risks! Long term investing is boring and you'll need something to get 
 
 You may have to hunker down for a bit to get above water but should remember to enjoy the journey along the way. Have fun talking about money with your family and reward yourselves when you reach certain milestones. You could die tomorrow so give yourself a plan that provides some peace knowing that it's just a matter of time. 
 
-Maybe reduce your savings rate once you're out of debt if you need a little extra money to enjoy life as long as you're still happy with your retirement plan. You don't have to live a strapped life but I think it's neccessary until you're out of debt to learn a lesson about overspending.
+Maybe reduce your savings rate once you're out of debt if you need a little extra money to enjoy life as long as you're still happy with your retirement plan. You don't have to live a strapped life but I think it's necessary until you're out of debt to learn a lesson about overspending.
 
 A downfall of being human is that is always seems we want the next thing in life. We get bored quick and ready for change shortly after something new. Be mindful of the present moment because that's all you ever have. Take a breath and just enjoy being alive.
 
