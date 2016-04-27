@@ -53,10 +53,10 @@ Having insurance is VERY important to protect from debt but can also waste a lot
 Medical
 -  Highly depends on your current health situation and how often you need medical care. 
 -  If you have high medical expenses often or planning to (having a baby) then you'll want good comprehensive coverage to lower your deductibles and provide co-pays.
--  If you rarely need medical care and have a high-deductible plan available to you with the ability to contribute to an HSA then you should consider it if you can plan to max out HSA contributions each year until the balance is above your out of pocket maximum and then you can tone down contributions later to increase savings elsewhere.
+-  If you rarely need medical care and have a high-deductible plan available to you with the ability to contribute to an HSA (Health Savings Account) then you should consider it if you can plan to max out HSA contributions each year until the balance is above your out of pocket maximum and then you can tone down contributions later to increase savings elsewhere.
 -    HSAs stay with you for life to help pay for a wide range of medical expenses using pre-tax dollars and the funds can be accessed for anything after retirement. Basically, they are awesome.
 -    If you don't have access to a HSA I recommend sticking with a good comprehensive health plan and wouldn't get a high deductible plan without it. There is too much debt risk.
--    Only get a FSA if you know of a procedure you need to have in the covered year so you can use additional pre-tax dollars to pay for it. Otherwise you may not use the money and lose it at the end of the year.
+-    Only get a FSA (Flexible Savings Account) if you know of a procedure you need to have in the covered year so you can use additional pre-tax dollars to pay for it. Otherwise you may not use the money and lose it at the end of the year.
 -    Medical Bills are 0% interest. Don't think you have to pay off medical bills right away. Call the company you owe and setup a low monthly payment plan you can afford to keep you out of debt. Payments count towards your medical insurance deductible at the time each payment is applied so keep that in mind if you plan to change coverages with a better deductible later or to pay with your future spouses HSA :-)
 -    Prescriptions are often cheaper when re-ordered in higher quantities and many manufacturers offer coupons.
 -    You can change your health coverage only during open enrollment periods or within x days of many qualifying life events. (Google them there are many)
@@ -139,13 +139,15 @@ Entertainment
 -  Have house/dinner parties vs. going out with friends.
 -  Go out with a certain amount of cash and leave the cards at home.
 -  Happy hour and the cheap alcohol. You're not baller and drunk anyways...
--  Eat at home.
+-  Know what specials are on what days at restaurants
+-  Eat at home. It gets fun the more you do it. Maybe start off by alternating between home and out and slim down out as you get better.
 -  Take advantage of your local rec center and library.
 
 PAY WITH CASH
 -  Don't get sucked into rewards cards that can get you 3% or less cash back or equivalent miles (I've done the math). Using cash can save you ~15% per month because of the psychological effects of handing someone your cash. I didn't believe it at first either but it’s true just try it.
+-    But Sean, I pay off my credit card bill every month and get back money! Yeah I get this and it’s hard to convince people otherwise but most utilities and mortgages won’t let you use a credit card anyways so your other bills are what’s on the credit card and if scrutinized enough shouldn’t be getting you that much cash back. Don’t ever use cash back as the reason to buy something.
 - You don't see the random tip line on a receipt when you pay with cash.
-- It's a truly gratifying feeling not having any credit cards.
+- It's a truly gratifying feeling not having any credit cards. Just knowing the balance of your checking account without having to wait for credit to process with tips and do the math is nice. Use your debit card for automatic payments.
 - I take out the cash for Groceries and Entertainment at the beginning of the month and make it last knowing exactly how much I have left. It helps with sticking to your budget.
 
 Start a Material Stash
@@ -162,6 +164,14 @@ Kids
 - It's very important to me to make sure I don't have more kids than I can give enough time/love to and unfortunately money can have an impact on that.
 - Kids need daycare, have higher medical expenses, diapers, formula, birth costs, missed work from many sick days, more food, need entertainment, bigger cars, sports and so on... 
 - Just consider your financial situation before having kids and adjust as needed. You need time and money to continue with your personal goals while also being a good parent.
+
+Pets
+- Pets can be a ton of fun and great companions but definitely take a huge chunk of your time/money.
+- Make sure you can have the time to give enough to your pet and not keep them caged up all the time.
+- Pets limit your rent and travel opportunities.
+- My dog has cost be north of $10,000 in medical bills so far and he is 5. Granted this may be above average but you never know. He tore his ACL as one of the costs. 
+  - Pet insurance would have helped with the costs but it’s a waste of money if you have a healthy animal. You just never know with an animal but most of them I’ve been around have never had large medical bills and justified the need for pet insurance.
+- The bigger the pet, the bigger the poops, bigger the food, bigger the cost but the shorter they live :-/
 
 ### Step 4: One Month of Expenses + $1,000 Buffer
 
@@ -225,7 +235,7 @@ Using this strategy early should set you up pretty well when you can access the 
 
 **Early Retirement**
 
-This may sound crazy but saving at least 50% of your monthly income is an important step towards retiring early and not impossible. Keep at it and you'll get there while increasing income and decreasing expenses. If you've been in the same job for a while, consider looking for new opportunities while you have a job. Yearly raises in your current job are usually very small and may require you to change companies for the large increase you desire.
+This may sound crazy but saving at least 50% of your monthly income is an important step towards retiring early and not impossible. Keep at it and you'll get there while increasing income and decreasing expenses. If you've been in the same job for a while, consider looking for new opportunities while you have a job. Yearly raises in your current job are usually very small and may require you to change companies for the large increase you desire. I don’t use savings accounts, they are pretty useless for investments and prefer rather to keep money in the checking account and move savings to investments. Your savings rate can be calculated from money you put away for retirement, college, investments, etc..
 
 Since I invest in all Vanguard funds, I recommend opening your (early retirement) brokerage account with Vanguard and you'll avoid transaction fees for buying and selling their funds. It's easy to setup money transfers from your checking account and see your asset allocation % to rebalance as needed.
 
