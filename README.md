@@ -14,7 +14,7 @@ I try to provide specific actions vs. open-ended advice with no details. There a
 - You won't get rich working for the man.
   - This roadmap is to help the average working Joe learn how to retire early using passive income you generate from your employment savings. Sorry but to get rich quick usually involves starting a business or some dumb luck.
 - Simplify life
-  - Life can be full of problems and complications that stem from your footprint in the world. The more kids, animals, house sq. ft., cars, etc.. that you have the more complicated and thus expensive your life becomes. 
+  - Life can be full of problems and complications that stem from your footprint in the world. The more kids, animals, house sq. ft., cars, etc.. that you have the more complicated and thus expensive your life becomes. You may choose to accept some of these extra complications as you free up time/money down the road but control them from getting in the way during the journey.
   - Enjoy your wants and desires but have enough time to appreciate them. Know what enough is. You think you know what you want when you don't have it. Learn to appreciate what you have today because tomorrow may not come.
 
 ## The Roadmap
@@ -162,13 +162,14 @@ Start a Material Stash
 Kids
 - Kids are great and there are people that want more and more and that is great. However, kids are expensive. I really don't want to discourage people from having kids but it's important to talk about them.
 - It's very important to me to make sure I don't have more kids than I can give enough time/love to and unfortunately money can have an impact on that.
-- Kids need daycare, have higher medical expenses, diapers, formula, birth costs, missed work from many sick days, more food, need entertainment, bigger cars, sports and so on... 
+- Kids need daycare, have higher medical expenses, diapers, clothes, formula, birth costs, missed work from many sick days, more food, need entertainment, bigger cars, sports and so on... 
+- They can help you save too as new form of entertainment and definitely change your pre-kids schedule and lifestyle.
 - Just consider your financial situation before having kids and adjust as needed. You need time and money to continue with your personal goals while also being a good parent.
 
 Pets
 - Pets can be a ton of fun and great companions but definitely take a huge chunk of your time/money.
 - Make sure you can have the time to give enough to your pet and not keep them caged up all the time.
-- Pets limit your rent and travel opportunities.
+- Pets limit your rent and travel opportunities which may save you some or frustrate you :-)
 - My dog has cost be north of $10,000 in medical bills so far and he is 5. Granted this may be above average but you never know. He tore his ACL as one of the costs. 
   - Pet insurance would have helped with the costs but it’s a waste of money if you have a healthy animal. You just never know with an animal but most of them I’ve been around have never had large medical bills and justified the need for pet insurance.
 - The bigger the pet, the bigger the poops, bigger the food, bigger the cost but the shorter they live :-/
@@ -257,7 +258,9 @@ Take some risks! Long term investing is boring and you'll need something to get 
 
 You may have to hunker down for a bit to get above water but should remember to enjoy the journey along the way. Have fun talking about money with your family and reward yourselves when you reach certain milestones. You could die tomorrow so give yourself a plan that provides some peace knowing that it's just a matter of time. 
 
-Maybe reduce your savings rate once you're out of debt if you need a little extra money to enjoy life as long as you're still happy with your retirement plan. You don't have to live a strapped life but I think it's necessary until you're out of debt to learn a lesson about overspending. However, don't be cheap to a fault. There will be times on occassion where it just feels right to buy someone else's lunch or be charitable to bring you joy. Cut back in other places so you can take advantage of those rare opportunities. Maybe even make a certain % of your budget for charity but don't forget to help yourself along the way.
+Maybe reduce your savings rate once you're out of debt if you need a little extra money to enjoy life as long as you're still happy with your retirement plan. You don't have to live a strapped life but I think it's necessary until you're out of debt to learn a lesson about overspending. However, don't be cheap to a fault. There will be times on occassion where it just feels right to buy someone else's lunch or be charitable to bring you joy. Cut back in other places so you can take advantage of those rare opportunities. Maybe even make a certain % of your budget for charity but don't forget to help yourself along the way. 
+
+Don't be afraid to fix things yourself, it can be a rewarding feeling that also saves you money and may even introduce you to a new trade. However, also know when it's worth the time saved to pay someone else while being mindful of the hit on your savings. Money can be used to reduce some of the complications of our lifestyle but should be kept within means to keep you on your path to retirement.
 
 A downfall of being human is that is always seems we want the next thing in life. We get bored quick and ready for change shortly after something new. Be mindful of the present moment because that's all you ever have. Take a breath and just enjoy being alive.
 
