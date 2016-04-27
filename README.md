@@ -257,7 +257,7 @@ Take some risks! Long term investing is boring and you'll need something to get 
 
 You may have to hunker down for a bit to get above water but should remember to enjoy the journey along the way. Have fun talking about money with your family and reward yourselves when you reach certain milestones. You could die tomorrow so give yourself a plan that provides some peace knowing that it's just a matter of time. 
 
-Maybe reduce your savings rate once you're out of debt if you need a little extra money to enjoy life as long as you're still happy with your retirement plan. You don't have to live a strapped life but I think it's necessary until you're out of debt to learn a lesson about overspending.
+Maybe reduce your savings rate once you're out of debt if you need a little extra money to enjoy life as long as you're still happy with your retirement plan. You don't have to live a strapped life but I think it's necessary until you're out of debt to learn a lesson about overspending. However, don't be cheap to a fault. There will be times on occassion where it just feels right to buy someone else's lunch or be charitable to bring you joy. Cut back in other places so you can take advantage of those rare opportunities. Maybe even make a certain % of your budget for charity but don't forget to help yourself along the way.
 
 A downfall of being human is that is always seems we want the next thing in life. We get bored quick and ready for change shortly after something new. Be mindful of the present moment because that's all you ever have. Take a breath and just enjoy being alive.
 
