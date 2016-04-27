@@ -2,17 +2,18 @@
 
 This guide is an open and ever-changing list of steps I've compiled from various readings and life mistakes to share my journey towards retirement and for others to use at their own risk to build their own roadmap. 
 
-I try to provide specific actions vs. open-ended advice with no details. There are many options out there and I'm sure this will change as I continue to learn.
+I try to provide specific actions vs. open-ended advice with no details. There are many options out there and I'm sure this will change as I continue to learn. Know that this is far from perfect and could be completely different for you depending on your life situation. You won't agree with everything and that's OK but please share your thoughts.
 
 *This page can be edited by anyone [here] (https://github.com/seanmerron/Retirement-Roadmap/edit/master/README.md) using [Markdown] (https://guides.github.com/features/mastering-markdown/) syntax*
 
 ## Key Points
 - The ultimate goal in life is Happiness.
   - We seek purpose and fulfillment in life but live in a society where money is traded for your limited time on this earth. Financial Freedom allows us to spend more time with our families, free up time to appreciate the earth we live on and gives us the opportunity to work on our own dreams/hobbies.
+  - Understand what the word "Rich" means to you. What would you do if you had financial freedom? Do some soul searching to figure out what gives you the feeling of meaning/purpose and stop chasing material pleasures that have short-term enjoyment.
 - You only need a credit score if you need a loan.
   - Everyone thinks they need to build credit but in reality it's only to get a better future loan. You only need a loan when you can't afford something. Learning good saving habits form the start can keep you out of the credit world. More on this controversial topic later...
-- You won't get rich working for the man.
-  - This roadmap is to help the average working Joe learn how to retire early using passive income you generate from your employment savings. Sorry but to get rich quick usually involves starting a business or some dumb luck.
+- You won't get rich (quickly) working for the man.
+  - This roadmap is to help the average working Joe learn how to retire early using passive income you generate from your hard earned employment savings. Sorry but to get rich quick usually involves starting a business or some dumb luck.
 - Simplify life
   - Life can be full of problems and complications that stem from your footprint in the world. The more kids, animals, house sq. ft., cars, etc.. that you have the more complicated and thus expensive your life becomes. You may choose to accept some of these extra complications as you free up time/money down the road but control them from getting in the way during the journey.
   - Enjoy your wants and desires but have enough time to appreciate them. Know what enough is. You think you know what you want when you don't have it. Learn to appreciate what you have today because tomorrow may not come.
@@ -23,7 +24,7 @@ I try to provide specific actions vs. open-ended advice with no details. There a
 You can't start saving until you start tracking your money. You must break the fear of looking at your accounts.
 
 Create a free account on [Mint.com](http://Mint.com) and add all of your accounts (Banks, Loans, Credit Cards, Assets)
--   This will give you a snapshot of your current net worth. It's OK, things should get better from here.
+-   This will give you a snapshot of your current net worth. Net worth is like your current financial health/picture. It's like how your weight reflects your fitness. It's like your current score in a videogame. You'll see how far above or under water you are if you were to liquidate everything and give you a baseline to start improving on today.
 -   If you notice that you have multiple of the same types of accounts, try to consolidate them and close extra accounts to simplify account management.
 -    Be careful consolidating credit cards. Make sure there are no balance transfer fees and you're getting everything to the lowest APR card.
 -    If you own a home with some equity you'll most likely get the lowest rates from a home equity loan vs. keeping other loan types and credit cards.
@@ -56,7 +57,7 @@ Medical
 -  If you rarely need medical care and have a high-deductible plan available to you with the ability to contribute to an HSA (Health Savings Account) then you should consider it if you can plan to max out HSA contributions each year until the balance is above your out of pocket maximum and then you can tone down contributions later to increase savings elsewhere.
 -    HSAs stay with you for life to help pay for a wide range of medical expenses using pre-tax dollars and the funds can be accessed for anything after retirement. Basically, they are awesome.
 -    If you don't have access to a HSA I recommend sticking with a good comprehensive health plan and wouldn't get a high deductible plan without it. There is too much debt risk.
--    Only get a FSA (Flexible Savings Account) if you know of a procedure you need to have in the covered year so you can use additional pre-tax dollars to pay for it. Otherwise you may not use the money and lose it at the end of the year.
+-  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have in the covered year or you can estimate out of pocket costs(medications, co-pays) so you can use additional pre-tax dollars to pay for it outside of your HSA (if you have one). Try not to over estimate or you may not use the money and lose it at the end of the year. The funds are available on day 1 of the covered year for use.
 -    Medical Bills are 0% interest. Don't think you have to pay off medical bills right away. Call the company you owe and setup a low monthly payment plan you can afford to keep you out of debt. Payments count towards your medical insurance deductible at the time each payment is applied so keep that in mind if you plan to change coverages with a better deductible later or to pay with your future spouses HSA :-)
 -    Prescriptions are often cheaper when re-ordered in higher quantities and many manufacturers offer coupons.
 -    You can change your health coverage only during open enrollment periods or within x days of many qualifying life events. (Google them there are many)
@@ -65,13 +66,13 @@ Medical
 Dental
 -  So many problems can stem from not having routine dental cleanings so I think it's important to care for your mouth to offset major dental expenses later. 
 -  Usually covers 2 cleanings per year, x-rays and discount on major work.
--  Only get a FSA if you know of a procedure you need to have in the covered year so you can use pre-tax dollars to pay for it. Otherwise you may not use the money and lose it at the end of the year.
+-  Get a FSA if you know of a procedure you need to have in the covered year or you can estimate out of pocket costs(medications, co-pays) so you can use additional pre-tax dollars to pay for it outside of your HSA (if you have one). Try not to over estimate or you may not use the money and lose it at the end of the year. The funds are available on day 1 of the covered year for use.
 
 Vision
 -  Very cheap insurance through an employer usually worth having to pay for routine eye exams and help offset costs of contacts/glasses.
 -  Don't need it if you don't wear glasses/contacts
 -  As an alternative, if you know your prescription, there are sites you can buy glasses and contacts on for very cheap.
--  Only get a FSA if you know of a procedure you want to have in the covered year like LASIK so you can use pre-tax dollars to pay for it. Otherwise you may not use the money and lose it at the end of the year.
+-  Get a FSA if you know of a procedure you need like LASIK to have in the covered year or you can estimate out of pocket costs so you can use additional pre-tax dollars to pay for it outside of your HSA (if you have one). Try not to over estimate or you may not use the money and lose it at the end of the year. The funds are available on day 1 of the covered year for use.
 
 Life
 -  Basically a load of crap, but not completely. Beware of the many life insurance selling sharks out there.
@@ -104,6 +105,7 @@ Bills & Utilities
 -  Shop around for home owners insurance. Companies will try to raise your premium after 1 year and it's too easy to not notice it when included in your mortgage.
 -  Consider a refinance of your home if you can save at least 1% while reducing or keeping the same loan length.
 -  Are you in a house that's bigger than what you need? Planning for what you think you may need usually results in lost money. Don't solve problems that don't exist yet. Consider downsizing to save time and money wasted.
+-    The average American family spends one-third of its budget on housing, which is more than they spend on food, clothing, and entertainment combined. The single best thing a person can do to keep costs down is to reduce how much they spend on housing.
 -    You'll find many (not all) people in more expensive neighborhoods are strapped, fake and stuck trying to keep up with the Joneses. Being in the mid-lower tier neighborhoods can be a humbling experience full of neighborly people.
 -    Consider renting vs. owning a home. The lost interest, insurance, taxes and maintenance costs of a home can get close enough to lost rent in my opinion for renting to make sense. Homeowners know there's always a new project and reducing complications can free up time/money. However, a mortgage can be a great form of forced savings for those who have a hard time budgeting. I think the comparison ultimately comes down to intangible benefits vs. financial reasons. Passive investments paying for rent is the same to me as paying off a house. Also, you don't want to buy unless you'll be in the house for at least 5 years.
 -  Be more conscious of devices and lights you leave on in the house. Unplug devices you rarely use that still draw power when they are off.
