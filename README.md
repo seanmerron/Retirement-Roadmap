@@ -181,11 +181,11 @@ A credit score is a number the credit bureaus come up with to help lenders judge
 
 I'm not exactly sure when bankruptcy should be an option but if your monthly debt is exceeding your income then you're probably there. Aside from that, eliminating debt is essential to getting on your feet and working towards retirement. 
 
-Debts that have higher interest rates should be tackled first but some people prefer the incremental satisfaction of the "snowball" method which involves paying off the smallest balance debts first and then moving eventually to the bigger balances debts to provide frequent "woohoo" points for motivation/reward. Do whichever works for you.
+Debts that have higher interest rates should be tackled first but some people prefer the incremental satisfaction of the "snowball" method which involves paying off the smallest balance debts first and then moving eventually to the bigger balance debts to provide frequent "woohoo" points for motivation/reward. Do whichever works for you.
 
-Some large debts like auto loans can be paid off by selling the car and downgrading to something that is "enough" for your lifestyle. Leasing and buying cars/phones new should be avoided to prevent wasting money. Buying something a few years old will typically get you the better deal or you can drive around an old beater if you're up for it :)
+Some large debts like auto loans can be paid off by selling the car and downgrading to something that is "enough" for your lifestyle. Leasing and buying new cars/phones should be avoided to prevent wasting money. Buying something a few years old will typically get you the better deal or you can drive around an old beater if you're up for it :)
 
-I don't place a mortgage in this category and will be discussed later in early retirement.
+I don't place a mortgage in this debt payoff step and it will be discussed later in early retirement. You need a place to live.
 
 Don't fall for 0% interest or low rate loans where you think you can do "better" in the market. These increase your monthly expenses and usually cause you to buy things you don't have the savings for. Paying with savings will help you look for the best deal. There are cases where debt (leverage) can be used for real estate investing but we'll touch on that in early retirement.
 
@@ -231,7 +231,7 @@ Since I invest in all Vanguard funds, I recommend opening your (early retirement
 
 Remember to invest for at least 1 year for tax benefits and even though this is for early retirement, it's still a long term hold positon with small withdrawals at some point in the future before 60.
 
-You may not care for the markets or real estate and would rather just put extra money towards paying off the house early and be OK with the equity sitting there not making any money. Or, pay it off early to earn the interest loss back as a safe return and then sell.
+You may not care for the markets or real estate and would rather just put extra money towards paying off the house early and be OK with the equity sitting there not making any money. Or, pay it off early to earn the interest loss back as a safe return and then sell the house. Whatever floats your boat.
 
 Be an entrepreneur on the side! Starting a business can be a quick way to earn a high income to speed up early retirement. However, make sure to minimize startup costs and do something you're passionate about.
 
