@@ -267,3 +267,15 @@ Don't be afraid to fix things yourself, it can be a rewarding feeling that also 
 A downfall of being human is that is always seems we want the next thing in life. We get bored quick and ready for change shortly after something new. Be mindful of the present moment because that's all you ever have. Take a breath and just enjoy being alive.
 
 Once you're passive income from retirement investment withdrawals can start paying for your monthly expenses, congrats you can retire! You have the power of savings! Work when you want to and enjoy more special moments with your free time. This is my roadmap and I look forward to sharing future steps on the other side.
+
+#### Useful Resources
+
+It'd be crappy of me not to try and mention some of the useful resources that have helped me along the way so here we go:
+
+- http://www.mrmoneymustache.com/ Love this guy!
+- http://awealthofcommonsense.com/ Awesome investment book!
+- http://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101 Another awesome investment book!
+- https://www.reddit.com/r/financialindependence/ 
+- https://www.reddit.com/r/personalfinance/
+- https://www.reddit.com/r/Frugal/ 
+- My pool, the last loan I ever had.
