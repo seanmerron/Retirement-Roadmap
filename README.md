@@ -1,22 +1,22 @@
 # Retirement Roadmap
 
-This guide is an open and ever-changing list of steps I've compiled from various readings and life mistakes to share my journey towards retirement and for others to use at their own risk to build their own roadmap. 
+This guide is an open and ever-changing list of steps I've compiled from various readings and life mistakes to share my journey towards retirement and for others to use at their own risk for their own roadmap. 
 
-I try to provide specific actions vs. open-ended advice with no details. There are many options out there and I'm sure this will change as I continue to learn. Know that this is far from perfect and could be completely different for you depending on your life situation. You won't agree with everything and that's OK but please share your thoughts.
+There is a lot of vague advice out there so I try to provide specific actions with details. There are many options out there and this roadmap will continue to evolve as I learn. This roadmap is far from perfect and could be completely different for you depending on your life situation. You won't agree with everything and that's OK but please share your thoughts.
 
 *This page can be edited by anyone [here] (https://github.com/seanmerron/Retirement-Roadmap/edit/master/README.md) using [Markdown] (https://guides.github.com/features/mastering-markdown/) syntax*
 
 ## Key Points
 - The ultimate goal in life is Happiness.
-  - We seek purpose and fulfillment in life but live in a society where money is traded for your limited time on this earth. Financial Freedom allows us to spend more time with our families, free up time to appreciate the earth we live on and gives us the opportunity to work on our own dreams/hobbies.
-  - Understand what the word "Rich" means to you. What would you do if you had financial freedom? Do some soul searching to figure out what gives you the feeling of meaning/purpose and stop chasing material pleasures that have short-term enjoyment.
+  - We seek purpose and fulfillment in life but live in a society where money is traded for our limited time on this earth. Financial Freedom allows us to spend more time with our families and frees up time for hobbies, working towards our dreams and to appreciate life.
+  - Understand what the word "Rich" means to you. What would you do if you had financial freedom? Do some soul searching to figure out what gives you meaning/purpose and stop chasing material wants that have short-term enjoyment.
 - You only need a credit score if you need a loan.
-  - Everyone thinks they need to build credit but in reality it's only to get a better future loan. You only need a loan when you can't afford something. Learning good saving habits form the start can keep you out of the credit world. More on this controversial topic later...
+  - Everyone is so convinced to build credit but in reality it's mainly just to get approved for loans. You only need a loan when you can't afford something. Learning good saving habits from the start can keep you out of the easily attractive credit world/trap. More on this controversial topic later...
 - You won't get rich (quickly) working for the man.
-  - This roadmap is to help the average working Joe learn how to retire early using passive income you generate from your hard earned employment savings. Sorry but to get rich quick usually involves starting a business or some dumb luck.
-- Simplify life
-  - Life can be full of problems and complications that stem from your footprint in the world. The more kids, animals, house sq. ft., cars, etc.. that you have the more complicated and thus expensive your life becomes. You may choose to accept some of these extra complications as you free up time/money down the road but control them from getting in the way during the journey.
-  - Enjoy your wants and desires but have enough time to appreciate them. Know what enough is. You think you know what you want when you don't have it. Learn to appreciate what you have today because tomorrow may not come.
+  - This roadmap is for the average working Joe to learn how to retire early using passive income you generate from your hard earned employment savings. Sorry but to get rich quick usually involves starting a business or some dumb luck.
+- Simplify Life.
+  - Life can too easily be filled with problems from complications introduced as your life gets more complex. The more kids, animals, house space, cars, loans, etc.. that you have the more complex and thus expensive your life becomes. Complexity can be adjusted down the road as you free up time/money but keep control and try to simplify your life during the journey to not get overwhelmed with more risks of unplanned expenses.
+  - Know what enough is for you. You may think you know what you want when you don't have it. Learn to appreciate what you have today because tomorrow may not come. It's ultimately the simple things in life that can bring great pleasure.
 
 ## The Roadmap
 
