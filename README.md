@@ -4,7 +4,7 @@ This guide is an open and ever-changing list of steps I've compiled from various
 
 There is a lot of vague advice out there so I try to provide specific actions with details. There are many options out there and this roadmap will continue to evolve as I learn. This roadmap is far from perfect and could be completely different for you depending on your life situation. You won't agree with everything and that's OK but please share your thoughts.
 
-*This page can be edited by anyone [here] (https://github.com/seanmerron/Retirement-Roadmap/edit/master/README.md) using [Markdown] (https://guides.github.com/features/mastering-markdown/) syntax*
+*This page can be edited by anyone [here](https://github.com/seanmerron/Retirement-Roadmap/edit/master/README.md) using [Markdown](https://guides.github.com/features/mastering-markdown/) syntax*
 
 ## Key Points
 - The ultimate goal in life is Happiness.
