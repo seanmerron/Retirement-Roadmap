@@ -2,34 +2,34 @@
 
 This guide is an open and ever-changing list of steps I've compiled from various readings and life mistakes to share my journey towards retirement and for others to use at their own risk for their own roadmap. 
 
-There is a lot of vague advice out there so I try to provide specific actions with details. There are many options out there and this roadmap will continue to evolve as I learn. This roadmap is far from perfect and could be completely different for you depending on your life situation. You won't agree with everything and that's OK but please share your thoughts.
+There is a lot of vague advice out there so I try to provide specific actions with details. This roadmap is far from perfect and could be completely different for you depending on your life situation. You won't agree with everything and that's OK but please share your thoughts.
 
 *This page can be edited by anyone [here](https://github.com/seanmerron/Retirement-Roadmap/edit/master/README.md) using [Markdown](https://guides.github.com/features/mastering-markdown/) syntax*
 
 ## Key Points
 - The ultimate goal in life is Happiness.
-  - We seek purpose and fulfillment in life but live in a society where money is traded for our limited time on this earth. Financial Freedom allows us to spend more time with our families and frees up time for hobbies, working towards our dreams and to appreciate life.
-  - Understand what the word "Rich" means to you. What would you do if you had financial freedom? Do some soul searching to figure out what gives you meaning/purpose and stop chasing material wants that have short-term enjoyment.
+  - We seek purpose and fulfillment in life but live in a society where money is traded for our limited time on earth. Financial Freedom frees up time for our familes, hobbies, seeking dreams and sitting back to just appreciate life.
+  - Understand what "Rich" means to you. What would you do if you had financial freedom? Do some soul searching to figure out what gives you meaning/purpose and stop chasing material wants for short-term enjoyment.
 - You only need a credit score if you need a loan.
-  - Everyone is so convinced to build credit but in reality it's mainly just to get approved for loans. You only need a loan when you can't afford something. Learning good saving habits from the start can keep you out of the easily attractive credit world/trap. More on this controversial topic later...
+  - Everyone is so convinced to build credit mainly to get approved for loans later. You only need a loan when you can't afford something. Learning good saving habits from the start can keep you out of the easily misshandled credit world/trap. More on this controversial topic later...
 - You won't get rich (quickly) working for the man.
-  - This roadmap is for the average working Joe to learn how to retire early using passive income you generate from your hard earned employment savings. Sorry but to get rich quick usually involves starting a business or some dumb luck.
+  - This roadmap is for the average working Joe to learn how to retire early using passive income generated from hard earned employment savings. Sorry but to get rich quick usually involves starting a business or some dumb luck.
 - Simplify Life.
-  - Life can too easily be filled with problems from complications introduced as your life gets more complex. The more kids, animals, house space, cars, loans, etc.. that you have the more complex and thus expensive your life becomes. Complexity can be adjusted down the road as you free up time/money but keep control and try to simplify your life during the journey to not get overwhelmed with more risks of unplanned expenses.
-  - Know what enough is for you. You may think you know what you want when you don't have it. Learn to appreciate what you have today because tomorrow may not come. It's ultimately the simple things in life that can bring great pleasure.
+  - The more kids, animals, house space, cars, loans, toys, etc.. that you have, the more complex and thus expensive your life becomes. Complexity can be adjusted down the road as you free up time/money but keep control of it and simplify your life during the journey so you don't get overwhelmed with more emergency risks and unplanned expenses.
+  - Know what enough is for you. People always seem to know what they want when they don't have it. Learn to appreciate what you have today because tomorrow may not come. It's ultimately the simple things in life that bring true pleasure.
 
 ## The Roadmap
 
 ### Step 1: Consolidate and Create a Budget
-You can't start saving until you start tracking your money. You must break the fear of looking at your accounts.
+You can't start saving until you track your money so let's break the fear of looking at your accounts and get rolling!
 
-Create a free account on [Mint.com](http://Mint.com) and add all of your accounts (Banks, Loans, Credit Cards, Assets)
--   This will give you a snapshot of your current net worth. Net worth is like your current financial health/picture. It's like how your weight reflects your fitness. It's like your current score in a videogame. You'll see how far above or under water you are if you were to liquidate everything and give you a baseline to start improving on today.
--   If you notice that you have multiple of the same types of accounts, try to consolidate them and close extra accounts to simplify account management.
--    Be careful consolidating credit cards. Make sure there are no balance transfer fees and you're getting everything to the lowest APR card.
--    If you own a home with some equity you'll most likely get the lowest rates from a home equity loan vs. keeping other loan types and credit cards.
--    You can transfer your retirement accounts to get them into one place just call up the destination company and they'll give you the forms.
--  Go to the budgets tab in Mint and create the following categories with monthly limit goals
+Create a free account on [Mint.com](http://Mint.com) and add all of your accounts (Banks, Loans, Credit Cards, Assets, Investments)
+-  This will give you a snapshot of your current net worth. Net worth is like your current financial health. It's like how your weight reflects your fitness. It's like your current score in a videogame. You'll see how far above or under water you are if you were to liquidate everything and we'll use this as a baseline to start improving on today.
+-  If you have multiple of the same types of accounts, try to consolidate them and close extra accounts to simplify account management.
+-  Be careful consolidating credit cards. Try to avoid balance transfer fees and and get everything to the lowest APR card.
+-  Move more expensive loans/balances to a home equity loan if you can get a lower rate.
+-  Rollover your retirement accounts to get them into one place by asking the destination company for the forms.
+-  Go to the budgets section in Mint and create the following categories with your monthly goals:
 
 Category | Purpose
 ------------ | -------------
@@ -37,16 +37,18 @@ Income | Your total monthly income that you are going to budget.
 Bills & Utilities | All of your reoccurring bills and utilities.
 Entertainment | Money used for anything fun (Eating out, concert, drinking).
 Groceries | Cost of replenishing household Food & Pantry items.
-Auto & Transport: Gas & Fuel | To track gas for the vehicles.
+Auto & Transport: Gas & Fuel | Gas for the vehicles.
 Financial | Fixed money you are automatically saving every month. (Known as paying yourself first)
-Misc Expenses | The remainder of what's left over of your monthly income for misc expenses that come up through the month. This creates a zero balanced budget. Extra money in here at the end of the month goes towards your savings/debt.
+Misc Expenses | Tracks misc "other" expenses throughout the month. Amount should be the remainder of what's left over of your monthly income after above budgets so you can see extra money at the end of the month to put towards your savings/debt. 
 
--  Go to the transactions tab EVERY DAY and categorize your transactions.
--  Go to the Overview page daily and check to see if you're on track with your monthly budget and learn where your money is going. 
--  At the end of every month review how you did and adjust budgets accordingly to realty. Apply leftover money to savings/debt.
--  You can also get your credit score for free with mint which also provides some free basic identify theft alerts. 
+-  You now have a zero balanced budget.
+-  Go to the transactions section EVERY DAY to review and categorize your transactions.
+-    Categorize irrelevant transactions as "Hide From Budgets."
+-  Go to the Overview section daily to see if you're on track with your monthly budget and learn where your money is going. 
+-  At the end of every month review how you did, apply leftover money to savings/debt and adjust budgets accordingly to realty.
+-  Get your free credit score in Mint which comes with some free basic identify theft alerts. 
   
-Boom! You now have your whole financial outlook at your fingertips to start improving on.
+Boom! You now have your whole financial picture at your fingertips to start improving on.
 
 ### Step 2: Review Your Insurance
 Having insurance is VERY important to protect from debt but can also waste a lot of money if not scrutinized.
