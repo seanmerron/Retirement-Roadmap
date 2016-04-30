@@ -43,7 +43,7 @@ Misc Expenses | Tracks misc "other" expenses throughout the month. Amount should
 
 -  You now have a zero balanced budget.
 -  Go to the transactions section EVERY DAY to review and categorize your transactions.
--    Categorize irrelevant transactions as "Hide From Budgets."
+  - Categorize irrelevant transactions as "Hide From Budgets."
 -  Go to the Overview section daily to see if you're on track with your monthly budget and learn where your money is going. 
 -  At the end of every month review how you did, apply leftover money to savings/debt and adjust budgets accordingly to realty.
 -  Get your free credit score in Mint which comes with some free basic identify theft alerts. 
@@ -51,50 +51,51 @@ Misc Expenses | Tracks misc "other" expenses throughout the month. Amount should
 Boom! You now have your whole financial picture at your fingertips to start improving on.
 
 ### Step 2: Review Your Insurance
-Having insurance is VERY important to protect from debt but can also waste a lot of money if not scrutinized.
+Having insurance is VERY important to protect from debt but can also waste a lot of money paying for more coverage than you need.
 
 Medical
--  Highly depends on your current health situation and how often you need medical care. 
--  If you have high medical expenses often or planning to (having a baby) then you'll want good comprehensive coverage to lower your deductibles and provide co-pays.
--  If you rarely need medical care and have a high-deductible plan available to you with the ability to contribute to an HSA (Health Savings Account) then you should consider it if you can plan to max out HSA contributions each year until the balance is above your out of pocket maximum and then you can tone down contributions later to increase savings elsewhere.
--    HSAs stay with you for life to help pay for a wide range of medical expenses using pre-tax dollars and the funds can be accessed for anything after retirement. Basically, they are awesome.
--    If you don't have access to a HSA I recommend sticking with a good comprehensive health plan and wouldn't get a high deductible plan without it. There is too much debt risk.
--  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have in the covered year or you can estimate out of pocket costs(medications, co-pays) so you can use additional pre-tax dollars to pay for it outside of your HSA (if you have one). Try not to over estimate or you may not use the money and lose it at the end of the year. The funds are available on day 1 of the covered year for use.
--    Medical Bills are 0% interest. Don't think you have to pay off medical bills right away. Call the company you owe and setup a low monthly payment plan you can afford to keep you out of debt. Payments count towards your medical insurance deductible at the time each payment is applied so keep that in mind if you plan to change coverages with a better deductible later or to pay with your future spouses HSA :-)
--    Prescriptions are often cheaper when re-ordered in higher quantities and many manufacturers offer coupons.
--    You can change your health coverage only during open enrollment periods or within x days of many qualifying life events. (Google them there are many)
--    My Mom is a health insurance broker if you need help reducing your costs and making sure you have exactly what you need. Sorry for the plug but seriously contact her if you need help, she's awesome. PM me for more details.
+-  If you have high medical expenses or planning to (new baby) then you'll want good comprehensive coverage to lower your deductibles and offer co-pays.
+-  If you rarely need medical care and have a high-deductible plan available to you with the ability to contribute pre-tax to a HSA (Health Savings Account) then you should consider it and max out HSA contributions until the balance is above your out of pocket maximum and then you can tone down contributions later to increase savings elsewhere.
+  -  HSAs stay with you for life to help pay for a wide range of medical expenses using pre-tax dollars and the funds can be accessed for any purpose after 65.
+  -  If you don't have access to a HSA I recommend sticking with a good comprehensive health plan and wouldn't get a high deductible plan without it. There is too much debt risk.
+-  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have in the covered year or you can estimate out of pocket costs(medications, co-pays) so you can use pre-tax dollars to pay for these expenses. Try not to over estimate because un-used FSA funds are lost at the end of the year but the funds are available on day 1 of the covered year for use right away.
+  -  If you have a HSA I would still consider using a FSA first for planned medical expenses to allow your HSA to continue growing for future uses when you may not be able to contribute anymore.
+-  Medical Bills are 0% interest and you don't have to pay them in full right away. Call the company you owe and setup a low monthly payment plan you can afford to keep you out of debt. 
+  -  If you're still making payments into a new year or changed plans, use a FSA and/or HSA to help finish them.
+-  Prescriptions are often cheaper when re-ordered in higher quantities and many manufacturers offer coupons.
+-  Health coverage can only be changed during yearly open enrollment or within 30 days of many qualifying life events. (Baby, Marriage, New Job, etc..)
+-  My Mom is a health insurance broker if you need help reducing your costs and making sure you have exactly what you need. Sorry for the plug but seriously contact her if you need help, she's awesome. PM me for more details.
 
 Dental
--  So many problems can stem from not having routine dental cleanings so I think it's important to care for your mouth to offset major dental expenses later. 
--  Usually covers 2 cleanings per year, x-rays and discount on major work.
--  Get a FSA if you know of a procedure you need to have in the covered year or you can estimate out of pocket costs(medications, co-pays) so you can use additional pre-tax dollars to pay for it outside of your HSA (if you have one). Try not to over estimate or you may not use the money and lose it at the end of the year. The funds are available on day 1 of the covered year for use.
+-  Routine dental cleanings can help prevent major dental expenses later and insurance usually covers 2 cleanings per year, x-rays and discounts on major work.
+-  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have in the covered year so you can use pre-tax dollars to pay for it. Try not to over estimate because un-used FSA funds are lost at the end of the year but the funds are available on day 1 of the covered year for use right away.
+  -  If you have a HSA I would still consider using a FSA first for planned procedures to allow your HSA to continue growing for future uses when you may not be able to contribute anymore.
 
 Vision
--  Very cheap insurance through an employer usually worth having to pay for routine eye exams and help offset costs of contacts/glasses.
--  Don't need it if you don't wear glasses/contacts
--  As an alternative, if you know your prescription, there are sites you can buy glasses and contacts on for very cheap.
--  Get a FSA if you know of a procedure you need like LASIK to have in the covered year or you can estimate out of pocket costs so you can use additional pre-tax dollars to pay for it outside of your HSA (if you have one). Try not to over estimate or you may not use the money and lose it at the end of the year. The funds are available on day 1 of the covered year for use.
+-  Very cheap insurance to pay for routine eye exams and help offset costs of contacts/glasses but don't need it if you don't wear glasses/contacts.
+-  As an alternative, if you know your prescription, there are websites you can buy glasses and contacts on for very cheap.
+-  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have (like LASIK) in the covered year so you can use pre-tax dollars to pay for it. Try not to over estimate because un-used FSA funds are lost at the end of the year but the funds are available on day 1 of the covered year for use right away.
+  -  If you have a HSA I would still consider using a FSA first for planned procedures to allow your HSA to continue growing for future uses when you may not be able to contribute anymore.
 
 Life
 -  Basically a load of crap, but not completely. Beware of the many life insurance selling sharks out there.
--  This insurance helps provide money to your family in the event of your death. Why would they need the money? To help pay for any debt you've left them or ongoing expenses they'll have to cover with only their income.
--  If you have a family and no cash saved up, it's good to have some life insurance. It gets more expensive with age and make sure you're not paying for way more than your family would need if you died.
--  Some employers may already give you some basic life coverage and it may be very cheap to add a lot more coverage so worth looking into through employee benefits first.
--  Never buy whole life, only buy term. Term lasts only while you're paying for it which is good because at some point hopefully you won't need it because you'll have enough money saved up for your family to cover your death and their future needs.
+-  This insurance helps provide money to your family in the event of your death. Why would they need the money? To help pay for any debt you've left them or ongoing expenses with a reduced income from your absence.
+-  If you have a family and no cash saved up, it's good to have some life insurance. It gets more expensive with age and make sure you're not paying for way more coverage than your family would need if you died.
+-  Some employers may already give you some basic life coverage and it may be very cheap to add a lot more coverage.
+-  Never buy whole life, only buy term. Term lasts only while you're paying for it because at some point hopefully you won't need it because you'll have enough money saved up for your family to cover your death and their future needs.
+  -  Other investment options can get better returns than whole life.
 
 Daycare
--  I know it's not insurance but want to make sure people know that you may have access to open a FSA account to help pay for daycare costs using pre-tax dollars. If you know you'll have daycare expenses in the coming year, plan to open a FSA to help pay.
+-  I know it's not insurance but I want to make sure people know that you may have access to open a FSA account to help pay for daycare costs using pre-tax dollars. If you know you'll have daycare expenses in the coming year, plan to open a FSA to help pay for them. Check if the FSAs you have access to allow this expense type.
 
 Auto
--  Geico has always been the cheapest for me.
+-  Geico has always been the cheapest during my price shopping.
 -  If you've ever had a bad mark in your history while having one company, shop around because you'll most likely always be marked by that company and can find cheaper elsewhere.
--  If your car isn't that new you should probably be decreasing your coverages.
--  Only need liability and uninsured motorist coverage if your car isn't worth a whole lot. This covers medical expenses for you and others from accidents and is pretty important in my eyes. Limits should be what you think medical bills / injury law suits could get up to.
--  Collision is your deductible to repair damages to your car if you cause the accident. Your deductible should be how high you're willing to pay for an expense before wanting to make a claim on your insurance. I've always figure I'll take care of anything under $1,000 on my own. Eventually you may not want this coverage at all if your car is only worth a few thousand and figure I'll just replace the car myself if anything happens instead of paying the extra insurance premium.
+-  Liability and uninsured motorist coverage is pretty important to cover medical expenses for you and others from accidents. Limits should be what you think medical bills / injury law suits could get up to.
+-  Collision is your deductible to repair damages to your car if you cause the accident. Your deductible should be how high you're willing to pay for an expense before wanting to make a claim on your insurance. I've always figured I'll take care of anything under $1,000 on my own vs. making a claim. Eventually you may not want this coverage at all if your car is only worth a few thousand and figure you'll just replace the car if anything happens instead of paying the extra insurance costs.
 -  Comprehensive covers any damage incurred not by hitting a vehicle like theft, fire, floods, vandalism, animals which again isn't worth it once your car isn't worth much anyways or you don't live in an area where this is a problem. Same deductible principals as collision apply.
 
-A key point with insurance is to adjust coverage as your net worth increases. The more stashed up you have, the higher your deductibles can go to reduce reoccurring expenses but still have enough coverage for catastrophic events.
+A key point with insurance is to adjust coverage as your savings increase. The more stashed up you have, the higher your deductibles can go to reduce reoccurring expenses but making sure to still have enough coverage for catastrophic events.
 
 ### Step 3: Lower Expenses
 
