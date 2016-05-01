@@ -99,61 +99,71 @@ A key point with insurance is to adjust coverage as your savings increase. The m
 
 ### Step 3: Lower Expenses
 
-Marketing propoganda is everywhere and companies are constantly coming up with new schemes to get you to spend your money. It is important to constantly review and be very strict about your monthly reoccurring expenses now that they are visible within your budget. The more you can cut back today, the less interest you'll lose in debt or more interest you'll gain from compound investment interest to speed up retirement. It's time to get frugal and live within the means that will get you to retirement. Here are some tips arranged by budget category:
+Marketing propoganda is everywhere and companies are constantly coming up with new schemes to get you to spend your money. It is important to constantly review and be very strict about your monthly reoccurring expenses now that they are visible within your budget. The more you can cut back today, the less interest you'll lose in debt or more interest you'll gain from compounding investments to speed up retirement. It's time to get frugal and live within the means that will get you to retirement. Here are some tips arranged by budget category:
 
 Bills & Utilities
--  Drop your cable plan and just have internet. A lot of content is online now and you can get a HD antenna to stream free high definition stations over the air. Try out devices like Amazon Fire Sticks, Chomecasts and Apple TV. 
--  Large cell phone companies are constantly coming up with new plans to lure you in and can be very expensive. Buy a month to month plan or prepaid plans like Google Fi. Like a car, you don't need a brand new phone and can get year-old used ones for cheap.
--  If you keep cable, know that those companies put you into 1 year promotion offers that automatically go up after they expire so make sure to review what you're paying for and make sure you're always in a promotion.
--  Shop around for home owners insurance. Companies will try to raise your premium after 1 year and it's too easy to not notice it when included in your mortgage.
--  Consider a refinance of your home if you can save at least 1% while reducing or keeping the same loan length.
--  Are you in a house that's bigger than what you need? Planning for what you think you may need usually results in lost money. Don't solve problems that don't exist yet. Consider downsizing to save time and money wasted.
+-  Drop your cable plan and just have internet. A lot of content is online now and you can get a HD antenna to stream free high definition stations over the air. Try out devices like Amazon Fire Sticks, Chromecasts and Apple TV. 
+  -  If you keep cable, know that these companies usually put you into a 1 year promotion that automatically goes up after it expires so stay on top of getting into new promotions.
+-  Buy month to month or prepaid cell phone plans like Google Fi. Buy used phones for cheap and stop leasing new ones.
+-  Shop around for home owners insurance. Companies will raise your premium after 1 year and it's easily missed when paid with a mortgage escrow.
+-  Refinance your home if you can save at least 1% while reducing or keeping the remaining mortgage length.
+-  Downsize to save time and money wasted in housing costs, extra maintenance and utilities. Planning for what you think you'll need in the future usually results in lost money. Don't solve problems that don't exist yet. 
 -    The average American family spends one-third of its budget on housing, which is more than they spend on food, clothing, and entertainment combined. The single best thing a person can do to keep costs down is to reduce how much they spend on housing.
--    You'll find many (not all) people in more expensive neighborhoods are strapped, fake and stuck trying to keep up with the Joneses. Being in the mid-lower tier neighborhoods can be a humbling experience full of neighborly people.
--    Consider renting vs. owning a home. The lost interest, insurance, taxes and maintenance costs of a home can get close enough to lost rent in my opinion for renting to make sense. Homeowners know there's always a new project and reducing complications can free up time/money. However, a mortgage can be a great form of forced savings for those who have a hard time budgeting. I think the comparison ultimately comes down to intangible benefits vs. financial reasons. Passive investments paying for rent is the same to me as paying off a house. Also, you don't want to buy unless you'll be in the house for at least 5 years.
--  Be more conscious of devices and lights you leave on in the house. Unplug devices you rarely use that still draw power when they are off.
--  Your body can acclimate to certain temperatures so try to put the house temp higher in the summer and lower in the winter. Use your windows with a box fan.
--  Check http://www.benefits.gov/ for grants and tax credits that may apply to you. There is a ton for students, lower income individuals and children.
--  Check to see if you have any unclaimed property at https://www.unclaimed.org/
+-    You'll find many (not all) people in more expensive neighborhoods are strapped, fake and stuck trying to keep up with the Joneses. Being in the mid-lower tier neighborhoods can be a humbling experience full of neighborly real people.
+-    Consider renting vs. owning a home. The lost interest, insurance, taxes and maintenance costs of a home can get close enough to lost rent. Homeowners know there's always a new project and reducing complications with the attachment can free up time/money. However, a mortgage can be forced savings for those who have a hard time budgeting. In my opinion, the choice ultimately comes down to intangible vs. financial reasons. Passive investment income paying for rent is the same to me as paying off a house. If traveling, you don't want to buy unless you'll be in the house for at least 5 years.
+-  Unplug devices you rarely use because they still draw power when they are off.
+-  Wash your hands and dishes with cold water. The soap does the work, you couldn't touch water hot enough to kill germs.
+-  Turn your hot water heater down to a level that works for you.
+-  Turn the house temp higher in the summer and lower in the winter just wear the right clothing in your house. Open your windows to help with a box fan. Adjust what you sleep in and number of bed sheets for night time. 
+  -  HVAC service plans are a waste of money and large companies usually try to sell you new units instead of a cheap fix. Buy cheap air filters and change them as needed.
 
 Auto & Transport: Gas & Fuel
--  Live closer to work, seriously. A long commute is wasting your time on this earth plus pissing away gas money and your cars value.
--  Walk, Ride your bike or public transportation.
--    Riding your bike is great for your health and can be done year round with the right clothing. You can take the family grocery shopping with bike trailers.
+-  Live closer to work, seriously. A long commute is not only wasting your time but pissing away gas money and your cars value.
+-  Walk, Ride your bike or use public transportation.
+  -  Riding your bike is great for your health and can be done year round with the right clothing. You can take the family grocery shopping using bike trailers.
+  -  City bus tickets can be cheap and frees up your hands for other things during a commute along with some social interaction.
 -  Get a car that suites you needs and nothing more. Having a car bigger than what you need is killing your pocket and a huge waste. You can rent a truck or borrow a friends as needed.
+-  Plan trips to make multiple stops along the way and prevent unnecessary extra trips that can wait.
+-  Consider 1 car for the family. More cars means more headaches and yearly costs and if rarely used is money sitting there that could be invested working for you or to pay off debt.
+  -  Having 1 car can teach you to be more efficient in your commutes, privde some adventure and bring the family together more often.
 -  Stop driving like a jackass.
--  Do you really need more than 1 car in the family? More cars means more headaches and yearly costs and if rarely used is money sitting there that could be invested working for you or to pay off debt.
--  Plan trips to make multiple stops along the way to prevent unnecessary extra trips.
 
 Groceries
--  Have to find the right mixture of online, grocery store and bulk stores.
--    Better quality Meats and Produce are usually on sale every week and just have to find the right store.
--    Clip coupons and take advantage of apps like iBotta or Walmart savings catcher that give you rewards cash to spend.
--    Buy pantry items at bulk stores.
--    Amazon has a subscribe and save program where you can get 15% off on items you order on a reoccurring basis. This is awesome for diapers, wipes, pet food and random pantry items.
--    Stretch your groceries thin. Don't go back to do a major shop until every item in your pantry and freezer is accounted for. If you make a meal, think of something creative with the leftovers but don’t cook the next meal until the leftovers are gone. I can't stress enough how much this bullet will save you.
--    Eat meals using your fresh groceries first and your dried/canned foods later to reduce waste.
--    Start a neighborhood garden.
+-  Find the right mixture of online, grocery store and bulk stores. 
+  -  Break down costs to the oz to find the winner. You can compare costs on the store apps or online.
+  -  Better quality meats and produce are usually on sale every week and just have to find the right store.
+  -  Clip coupons and take advantage of apps like iBotta or Walmart savings catcher that give you rewards cash to spend.
+  -  Buy pantry items at bulk stores.
+  -  Amazon has a subscribe and save program where you can get 15% off on items you order on a reoccurring basis. This is awesome for diapers, wipes, pet food and random pantry items.
+-  Stretch your groceries thin. Don't go back to do a major shop until every item in your pantry and freezer is accounted for. If you make a meal, think of something creative with the leftovers but don’t cook the next meal until the leftovers are gone. 
+-  Eat meals using your fresh groceries first and your dried/canned foods later to reduce waste.
+-  Start a neighborhood garden.
 
 Entertainment
 -  Use fast food coupons. They're everywhere.
 -  Go to places you don't have to tip.
+-  Pickup food vs. delivery.
 -  Split a meal and an appetizer with someone if you can't finish it anyways.
 -  There are many fun things you can do outdoors if you let yourself wander.
 -  Find local festivals and tastings.
 -  Have house/dinner parties vs. going out with friends.
 -  Go out with a certain amount of cash and leave the cards at home.
 -  Happy hour and the cheap alcohol. You're not baller and drunk anyways...
--  Know what specials are on what days at restaurants
--  Eat at home. It gets fun the more you do it. Maybe start off by alternating between home and out and slim down out as you get better.
+-  Know what specials are on what days at restaurants.
+-  Eat at home. It gets fun the more you do it. 
 -  Take advantage of your local rec center and library.
 
-PAY WITH CASH
--  Don't get sucked into rewards cards that can get you 3% or less cash back or equivalent miles (I've done the math). Using cash can save you ~15% per month because of the psychological effects of handing someone your cash. I didn't believe it at first either but it’s true just try it.
--    But Sean, I pay off my credit card bill every month and get back money! Yeah I get this and it’s hard to convince people otherwise but most utilities and mortgages won’t let you use a credit card anyways so your other bills are what’s on the credit card and if scrutinized enough shouldn’t be getting you that much cash back. Don’t ever use cash back as the reason to buy something.
+Free Money
+-  Check http://www.benefits.gov/ for grants and tax credits that may apply to you. There is a ton for students, lower income individuals and children.
+-  Check to see if you or past family have any unclaimed property at https://www.unclaimed.org/
+-  Register for https://topclassactions.com/ to keep an eye out for settlements you may be entitled to.
+
+Pay With Cash
+-  Don't get sucked into rewards cards that can get you 3% or less cash back or equivalent flight miles (I've done the math). Using cash can save you ~15% per month because of the psychological effects of handing someone your cash. I didn't believe it at first either but it’s true just try it.
+-    But Sean, I pay off my credit card bill every month and get back money! Yeah I get this and it’s hard to convince people otherwise but most utilities and mortgages won’t let you use a credit card anyways so your other bills are what’s on the credit card and if scrutinized enough shouldn’t be getting you much cash back anyways. Don’t ever use cash back as the reason to buy something.
 - You don't see the random tip line on a receipt when you pay with cash.
-- It's a truly gratifying feeling not having any credit cards. Just knowing the balance of your checking account without having to wait for credit to process with tips and do the math is nice. Use your debit card for automatic payments.
-- I take out the cash for Groceries and Entertainment at the beginning of the month and make it last knowing exactly how much I have left. It helps with sticking to your budget.
+- It's a truly gratifying sense of pride not having any credit cards. Just knowing the balance of your checking account without having to wait for credit to process is awesome. Use your debit card for automatic payments.
+- Take out the cash for Groceries and Entertainment at the beginning of the month and ration it as you go to help with sticking to your budget.
 
 Start a Material Stash
 - A great habit for you and teaching your kids early is to buy new materialistic items with old materialistic item's money. Hobbies come and go and your wants/desires change over time. Learning to sell old toys before buying the next toy is a great habit to learn thoughtful spending and control clutter
