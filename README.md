@@ -99,10 +99,10 @@ A key point with insurance is to adjust coverage as your savings increase. The m
 
 ### Step 3: Lower Expenses
 
-It is way too easy to spend your money and companies are trying all sorts of new things to keep you spending. Propaganda is everywhere and it's too easy to swipe the card. If you want to speed up your retirement you need to review your monthly reoccurring expenses now that they are in your budget. Reducing your monthly expenses allows more money to start collecting and compounding interest for you today. It's time to get frugal and stop living outside of your means until you've gotten past retirement. It's OK to treat yourself from time to time but the monthly reoccurring expenses have to constantly be evaluated. Here are some tips by budget category:
+Marketing propoganda is everywhere and companies are constantly coming up with new schemes to get you to spend your money. It is important to constantly review and be very strict about your monthly reoccurring expenses now that they are visible within your budget. The more you can cut back today, the less interest you'll lose in debt or more interest you'll gain from compound investment interest to speed up retirement. It's time to get frugal and live within the means that will get you to retirement. Here are some tips arranged by budget category:
 
 Bills & Utilities
--  Consider dropping your cable company and just having internet. There are many options online now and you can get a HD antenna to stream free high def major stations over the air. Less TV has many other benefits of course.
+-  Drop your cable plan and just have internet. A lot of content is online now and you can get a HD antenna to stream free high definition stations over the air. Try out devices like Amazon Fire Sticks, Chomecasts and Apple TV. 
 -  Large cell phone companies are constantly coming up with new plans to lure you in and can be very expensive. Buy a month to month plan or prepaid plans like Google Fi. Like a car, you don't need a brand new phone and can get year-old used ones for cheap.
 -  If you keep cable, know that those companies put you into 1 year promotion offers that automatically go up after they expire so make sure to review what you're paying for and make sure you're always in a promotion.
 -  Shop around for home owners insurance. Companies will try to raise your premium after 1 year and it's too easy to not notice it when included in your mortgage.
