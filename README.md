@@ -160,24 +160,25 @@ Free Money
 
 Pay With Cash
 -  Don't get sucked into rewards cards that can get you 3% or less cash back or equivalent flight miles (I've done the math). Using cash can save you ~15% per month because of the psychological effects of handing someone your cash. I didn't believe it at first either but it’s true just try it.
--    But Sean, I pay off my credit card bill every month and get back money! Yeah I get this and it’s hard to convince people otherwise but most utilities and mortgages won’t let you use a credit card anyways so your other bills are what’s on the credit card and if scrutinized enough shouldn’t be getting you much cash back anyways. Don’t ever use cash back as the reason to buy something.
+  -  But Sean, I pay off my credit card bill every month and get back money! Yeah I get this and it’s hard to convince people otherwise but most utilities and mortgages won’t let you use a credit card anyways so your other bills are what’s on the credit card and if scrutinized enough shouldn’t be getting you much cash back anyways. Don’t ever use cash back as the reason to buy something.
 - You don't see the random tip line on a receipt when you pay with cash.
 - It's a truly gratifying sense of pride not having any credit cards. Just knowing the balance of your checking account without having to wait for credit to process is awesome. Use your debit card for automatic payments.
 - Take out the cash for Groceries and Entertainment at the beginning of the month and ration it as you go to help with sticking to your budget.
 
 Start a Material Stash
-- A great habit for you and teaching your kids early is to buy new materialistic items with old materialistic item's money. Hobbies come and go and your wants/desires change over time. Learning to sell old toys before buying the next toy is a great habit to learn thoughtful spending and control clutter
-- Start selling old items on Craigslist, OfferUp, eBay or have a yard sale. You'll learn which of these tools if better for certain items.
+- A great habit for you and teaching your kids early is to buy new materialistic items with old materialistic item's money. Hobbies come and go and your wants/desires change over time. Learning to sell old toys before buying the next toy is a great habit to learn thoughtful spending and control clutter.
+- Start selling old items on Craigslist, OfferUp, eBay or have a yard sale. You'll learn which of these tools if better for certain items. 
+  - Do the opposite also when you make purchases to find someone else done with the toy you need vs. paying full price. You might hate the toy and will suffer less of a loss getting rid of it.
 - Don't be afraid to let go. If you think you'll want something later you'll probably be able to find it newer on Craigslist or eBay down the road for cheaper. Think of this as free temporary storage. 
 - Start going around the house and building this stash. If you haven't used something in over 1 year, let it go, it's just sitting there losing value. De-cluttering your house is a rewarding feeling.
-- This will help you from dipping into your monthly budget or savings with material expenses. Use money already sitting around the house in material form :)
+- This will help you from dipping into your monthly savings from material expenses. Re-use money already sitting around the house in material form.
 - Never impulse buy, always shop around and wait a few days before making any purchase. This is a capitalist environment with the beauty of competition.
-- I don't let my material stash get over $1,000 and deposit extra money into savings.
+- Don't let the material cash stash get over $1,000 and deposit extra money into savings.
 
 Kids
-- Kids are great and there are people that want more and more and that is great. However, kids are expensive. I really don't want to discourage people from having kids but it's important to talk about them.
-- It's very important to me to make sure I don't have more kids than I can give enough time/love to and unfortunately money can have an impact on that.
-- Kids need daycare, have higher medical expenses, diapers, clothes, formula, birth costs, missed work from many sick days, more food, need entertainment, bigger cars, sports and so on... 
+- Kids are great and there are people that want more and more and that is awesome but kids are expensive. I really don't want to discourage people from having kids but it's neccessary to talk about their financial needs.
+- It's very important for me to make sure I don't have more kids than I can give enough time/love to and unfortunately money can have an impact on that.
+- Kids have lots of medical expenses, need daycare, diapers, clothes, formula, birth costs, missed work from many sick days, more food, need entertainment, bigger cars, sports and so on... 
 - They can help you save too as new form of entertainment and definitely change your pre-kids schedule and lifestyle.
 - Just consider your financial situation before having kids and adjust as needed. You need time and money to continue with your personal goals while also being a good parent.
 
