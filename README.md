@@ -86,7 +86,7 @@ Life
   -  Other investment options can get better returns than whole life.
 
 Daycare
--  I know it's not insurance but I want to make sure people know that you may have access to open a FSA account to help pay for daycare costs using pre-tax dollars. If you know you'll have daycare expenses in the coming year, plan to open a FSA to help pay for them. Check if the FSAs you have access to allow this expense type.
+-  I know it's not insurance but I want to make sure people know that you may have access to open a FSA account to help pay for daycare costs using pre-tax dollars. If you know you'll have daycare expenses in the coming year, plan to open a FSA to help pay for them. Check if the FSAs you have access to allow this expense type, it's usually through wageworks.
 
 Auto
 -  Geico has always been the cheapest during my price shopping.
@@ -95,11 +95,13 @@ Auto
 -  Collision is your deductible to repair damages to your car if you cause the accident. Your deductible should be how high you're willing to pay for an expense before wanting to make a claim on your insurance. I've always figured I'll take care of anything under $1,000 on my own vs. making a claim. Eventually you may not want this coverage at all if your car is only worth a few thousand and figure you'll just replace the car if anything happens instead of paying the extra insurance costs.
 -  Comprehensive covers any damage incurred not by hitting a vehicle like theft, fire, floods, vandalism, animals which again isn't worth it once your car isn't worth much anyways or you don't live in an area where this is a problem. Same deductible principals as collision apply.
 
-A key point with insurance is to adjust coverage as your savings increase. The more stashed up you have, the higher your deductibles can go to reduce reoccurring expenses but making sure to still have enough coverage for catastrophic events.
+A key point with insurance is to adjust coverage as your savings increase. The more stashed up you have, the higher your deductibles can go to reduce reoccurring expenses but making sure to still have enough coverage for catastrophic events. I really don't see a need for other types if you are saving unless you know of something coming in the future (baby).
 
 ### Step 3: Lower Expenses
 
-Marketing propoganda is everywhere and companies are constantly coming up with new schemes to get you to spend your money. It is important to constantly review and be very strict about your monthly reoccurring expenses now that they are visible within your budget. The more you can cut back today, the less interest you'll lose in debt or more interest you'll gain from compounding investments to speed up retirement. It's time to get frugal and live within the means that will get you to retirement. Here are some tips arranged by budget category:
+Marketing propoganda is everywhere and companies are constantly coming up with new schemes to get you to spend your money. It is important to constantly review and be very strict about your monthly reoccurring expenses now that they are visible within your budget. The more you can cut back today, the less interest you'll lose in debt or more interest you'll gain from compounding investments to speed up retirement. For a rough estimate (recommended by MMM) taking a monthly expense saving * 173 will give you the potential value of that savings invested for 10 years. For example, if I cut back $250/month that could turn into $43,250 in 10 years. Compound interest is awesome!
+
+It's time to get frugal and live within the means that will get you to retirement. Here are some tips arranged by budget category:
 
 Bills & Utilities
 -  Drop your cable plan and just have internet. A lot of content is online now and you can get a HD antenna to stream free high definition stations over the air. Try out devices like Amazon Fire Sticks, Chromecasts and Apple TV. 
@@ -116,6 +118,7 @@ Bills & Utilities
 -  Turn your hot water heater down to a level that works for you.
 -  Turn the house temp higher in the summer and lower in the winter just wear the right clothing in your house. Open your windows to help with a box fan. Adjust what you sleep in and number of bed sheets for night time. 
   -  HVAC service plans are a waste of money and large companies usually try to sell you new units instead of a cheap fix. Buy cheap air filters and change them as needed.
+-  Some bills offer a lump sum discount vs. monthly payments. Take advantage of these if you are sure there is no possibility of canceling within the covered timeframe.
 
 Auto & Transport: Gas & Fuel
 -  Live closer to work, seriously. A long commute is not only wasting your time but pissing away gas money and your cars value.
@@ -126,15 +129,18 @@ Auto & Transport: Gas & Fuel
 -  Plan trips to make multiple stops along the way and prevent unnecessary extra trips that can wait.
 -  Consider 1 car for the family. More cars means more headaches and yearly costs and if rarely used is money sitting there that could be invested working for you or to pay off debt.
   -  Having 1 car can teach you to be more efficient in your commutes, privde some adventure and bring the family together more often.
+-  Work from home or change your works hours to limit your commute. talk to your boss about the possibility maybe starting with 1 day a week and increasing based on performance.
 -  Stop driving like a jackass.
 
 Groceries
 -  Find the right mixture of online, grocery store and bulk stores. 
   -  Break down costs to the oz to find the winner. You can compare costs on the store apps or online.
   -  Better quality meats and produce are usually on sale every week and just have to find the right store.
-  -  Clip coupons and take advantage of apps like iBotta or Walmart savings catcher that give you rewards cash to spend.
+  -  Clip coupons and take advantage of apps like iBotta or Walmart savings catcher that give you rewards cash to spend. 
+    -  The app Flipp will let you view your local ads.
   -  Buy pantry items at bulk stores.
-  -  Amazon has a subscribe and save program where you can get 15% off on items you order on a reoccurring basis. This is awesome for diapers, wipes, pet food and random pantry items.
+  -  Amazon has a subscribe and save program where you can get 15% off on items you order on a reoccurring basis. This is awesome for diapers, wipes, pet food and random pantry items. However, make sure to keep an eye on the itemn prices, sometimes items go up without warning.
+  -  Use sites like like Honey, PriceBlink, CamelCamelCamel to find coupon codes and recommend sites with lower prices.
 -  Stretch your groceries thin. Don't go back to do a major shop until every item in your pantry and freezer is accounted for. If you make a meal, think of something creative with the leftovers but don’t cook the next meal until the leftovers are gone. 
 -  Eat meals using your fresh groceries first and your dried/canned foods later to reduce waste.
 -  Start a neighborhood garden.
@@ -152,51 +158,55 @@ Entertainment
 -  Know what specials are on what days at restaurants.
 -  Eat at home. It gets fun the more you do it. 
 -  Take advantage of your local rec center and library.
+-  Arrange your closet/dresser so that you must wear the next item in line from left-to-right/front-to-back or throw it out. This will help you use all of your clothes and remove the ones you never want to wear or for special purposes (that never come around).
 
 Free Money
 -  Check http://www.benefits.gov/ for grants and tax credits that may apply to you. There is a ton for students, lower income individuals and children.
 -  Check to see if you or past family have any unclaimed property at https://www.unclaimed.org/
 -  Register for https://topclassactions.com/ to keep an eye out for settlements you may be entitled to.
+-  I've started a YouTube playlist for short frugal tips [here](https://www.youtube.com/playlist?list=PLYjVznSoJw5Xw5jqcXoSi9d_bJVPMufMd)
 
-Pay With Cash
--  Don't get sucked into rewards cards that can get you 3% or less cash back or equivalent flight miles (I've done the math). Using cash can save you ~15% per month because of the psychological effects of handing someone your cash. I didn't believe it at first either but it’s true just try it.
-  -  But Sean, I pay off my credit card bill every month and get back money! Yeah I get this and it’s hard to convince people otherwise but most utilities and mortgages won’t let you use a credit card anyways so your other bills are what’s on the credit card and if scrutinized enough shouldn’t be getting you much cash back anyways. Don’t ever use cash back as the reason to buy something.
+Pay With CASH
+-  Don't get sucked into rewards cards that can get you 3% or less cash back or equivalent (restricted) flight miles (I've done the math). Using cash can save you ~15% per month because of the psychological effects of handing someone your cash. I didn't believe it at first either but it’s true just try it.
+  -  But Sean, I pay off my credit card bill every month and get back money! Yeah I get this and it’s hard to convince people otherwise but most utilities and mortgages won’t let you use a credit card anyways so your other expenses are what’s on the credit card and if scrutinized enough shouldn’t be getting you much cash back anyways. Don’t ever use cash back as the reason to buy something.
 - You don't see the random tip line on a receipt when you pay with cash.
-- It's a truly gratifying sense of pride not having any credit cards. Just knowing the balance of your checking account without having to wait for credit to process is awesome. Use your debit card for automatic payments.
-- Take out the cash for Groceries and Entertainment at the beginning of the month and ration it as you go to help with sticking to your budget.
-
-Start a Material Stash
-- A great habit for you and teaching your kids early is to buy new materialistic items with old materialistic item's money. Hobbies come and go and your wants/desires change over time. Learning to sell old toys before buying the next toy is a great habit to learn thoughtful spending and control clutter.
-- Start selling old items on Craigslist, OfferUp, eBay or have a yard sale. You'll learn which of these tools if better for certain items. 
-  - Do the opposite also when you make purchases to find someone else done with the toy you need vs. paying full price. You might hate the toy and will suffer less of a loss getting rid of it.
-- Don't be afraid to let go. If you think you'll want something later you'll probably be able to find it newer on Craigslist or eBay down the road for cheaper. Think of this as free temporary storage. 
-- Start going around the house and building this stash. If you haven't used something in over 1 year, let it go, it's just sitting there losing value. De-cluttering your house is a rewarding feeling.
-- This will help you from dipping into your monthly savings from material expenses. Re-use money already sitting around the house in material form.
-- Never impulse buy, always shop around and wait a few days before making any purchase. This is a capitalist environment with the beauty of competition.
-- Don't let the material cash stash get over $1,000 and deposit extra money into savings.
+- It's a truly gratifying sense of pride not having any credit cards. Just knowing the balance of your checking account without having to wait for credit to process is awesome. Use your debit card for automatic payments, they have theft protection also.
+- Take out the cash for Groceries and Entertainment at the beginning of the month and ration it as you go to help with sticking to your budget. 
+  - Be more thrifty in the beginning of the month to help you get through unexpected expenses and give you a better idea of how you're doing towards the end of the month to treat yourself. 
+  - You can use the Mint "Split Transaction" feature on your ATM withdrawal after it's posted to track cash usage throughout the month.
 
 Kids
 - Kids are great and there are people that want more and more and that is awesome but kids are expensive. I really don't want to discourage people from having kids but it's neccessary to talk about their financial needs.
 - It's very important for me to make sure I don't have more kids than I can give enough time/love to and unfortunately money can have an impact on that.
-- Kids have lots of medical expenses, need daycare, diapers, clothes, formula, birth costs, missed work from many sick days, more food, need entertainment, bigger cars, sports and so on... 
-- They can help you save too as new form of entertainment and definitely change your pre-kids schedule and lifestyle.
+- Kids have lots of medical expenses, have birth costs, use your PTO for sick days, need more food, entertainment, daycare, diapers, clothes, formula, bigger cars, sports and so on... 
+- They can help you save too as a new form of entertainment and definitely change your pre-kids schedule and lifestyle.
 - Just consider your financial situation before having kids and adjust as needed. You need time and money to continue with your personal goals while also being a good parent.
 
 Pets
 - Pets can be a ton of fun and great companions but definitely take a huge chunk of your time/money.
-- Make sure you can have the time to give enough to your pet and not keep them caged up all the time.
+- Make sure you can have the time to give enough love to your pet and without keeping them caged up all the time.
 - Pets limit your rent and travel opportunities which may save you some or frustrate you :-)
-- My dog has cost be north of $10,000 in medical bills so far and he is 5. Granted this may be above average but you never know. He tore his ACL as one of the costs. 
-  - Pet insurance would have helped with the costs but it’s a waste of money if you have a healthy animal. You just never know with an animal but most of them I’ve been around have never had large medical bills and justified the need for pet insurance.
-- The bigger the pet, the bigger the poops, bigger the food, bigger the cost but the shorter they live :-/
+- My dog has cost me ~$10,000 in medical bills so far and he is 5. This is probably above average but you never know, he did tear his ACL.
+  - Pet insurance would have helped with the costs but it’s a waste of money if you have a healthy animal. You just never know with an animal but most of them I’ve been around have never had large medical bills like my current dog.
+- The bigger the pet, the bigger the poops, bigger the food, bigger the toys, bigger the meds but the shorter they live :-/
 
-### Step 4: One Month of Expenses + $1,000 Buffer
+### Step 4: One Month Expenses + $1,000 Buffer + Cash Stash
 
 It's important to not live paycheck to paycheck and the first way to do that is to have enough in your checking account for 1 month of expenses + a $1,000 buffer for unexpected/emergency expenses.
 
 You have a budget now so you know exactly how much you spend monthly. Use the leftover in your Misc expenses budget at the end of the month to start saving this amount up. You'll have enough for all of your monthly expenses and this month’s paychecks are preparing for the next month so you don't have to countdown until payday anymore.
 
 This peace of mind is important before tackling debt. If you need more peace of mind due to variable income or job insecurity then you may choose to increase the # of months of expenses saved before moving onto the next step.
+
+Start a Material Stash
+- A great habit for you and teaching your kids early is to buy new materialistic items with old materialistic item's money. Hobbies come and go and your wants/desires change over time. Learning to sell old toys before buying the next toy is a great habit to learn thoughtful spending and control clutter.
+- Start selling old items on Craigslist, OfferUp, eBay or have a yard sale. You'll learn which of these tools if better for certain items. 
+  - Do the opposite also when you make purchases to find someone else done with the toy you need vs. paying full price. You might hate the toy after buying it and will suffer less of a loss getting rid of it. Yard sales are where the best deals are.
+- Don't be afraid to let go. If you think you'll want something later you'll probably be able to find it newer on Craigslist or eBay down the road for cheaper. Think of this as free temporary storage. 
+- Start going around the house and building this cash stash. If you haven't used something in over 1 year, let it go, it's just sitting there losing value. De-cluttering your house is a rewarding feeling.
+- This will help you from dipping into your monthly savings from material expenses. Re-use money already sitting around the house in material form.
+- Never impulse buy, always shop around and wait a few days before making any purchase. This is a capitalist environment with the beauty of competition.
+- Don't let the material cash stash get over $1,000 and deposit extra money into savings.
 
 ### Step 5: Eliminate Debt
 
