@@ -95,6 +95,15 @@ Auto
 -  Collision is your deductible to repair damages to your car if you cause the accident. Your deductible should be how high you're willing to pay for an expense before wanting to make a claim on your insurance. I've always figured I'll take care of anything under $1,000 on my own vs. making a claim. Eventually you may not want this coverage at all if your car is only worth a few thousand and figure you'll just replace the car if anything happens instead of paying the extra insurance costs.
 -  Comprehensive covers any damage incurred not by hitting a vehicle like theft, fire, floods, vandalism, animals which again isn't worth it once your car isn't worth much anyways or you don't live in an area where this is a problem. Same deductible principals as collision apply.
 
+Umbrella
+-  As your net worth starts increasing and you have assets outside of your main home, car and retirements accounts (which are protected to a degree) you'll want to consider umbrella insurance for lawsuit protection.
+-  This insurance adds additional liability insurance on top of you auto and home insurance plus protection from certain lawsuits like libel, slander, invasion of privacy and false arrest.
+-  Ensure the policy is a "true" umbrella policy and not a "following form" policy that only sits on top of certain policies you have with the same company.
+-  Play with reducing or increasing your home and auto liability coverages in combination of your umbrella policy coverage to save costs.
+-  Make sure you understand who is covered in your household. Policies are usually very affordable for the potential risks.
+-  Don't get too much coverage over your assets. Lawyers can see how much total liability coverage you have and will usually go after the full amount if anything were to happen.
+-  Judge's can rule for you to pay for judgements in the future if you don't have the money/coverage now but there may be cases where bankruptcy may be a viable alternative.
+
 A key point with insurance is to adjust coverage as your savings increase. The more stashed up you have, the higher your deductibles can go to reduce reoccurring expenses but making sure to still have enough coverage for catastrophic events. I really don't see a need for other types if you are saving unless you know of something coming in the future (baby).
 
 ### Step 3: Lower Expenses
@@ -190,13 +199,13 @@ Pets
   - Pet insurance would have helped with the costs but it’s a waste of money if you have a healthy animal. You just never know with an animal but most of them I’ve been around have never had large medical bills like my current dog.
 - The bigger the pet, the bigger the poops, bigger the food, bigger the toys, bigger the meds but the shorter they live :-/
 
-### Step 4: One Month Expenses + $1,000 Buffer + Cash Stash
+### Step 4: One Month Income + $1,000 Buffer + Cash Stash
 
-It's important to not live paycheck to paycheck and the first way to do that is to have enough in your checking account for 1 month of expenses + a $1,000 buffer for unexpected/emergency expenses.
+It's important to not live paycheck to paycheck and the way to do that is to have enough in your checking account for 1 month of income + a $1,000 buffer for unexpected/emergency expenses in the event you go over your budget.
 
-You have a budget now so you know exactly how much you spend monthly. Use the leftover in your Misc expenses budget at the end of the month to start saving this amount up. You'll have enough for all of your monthly expenses and this month’s paychecks are preparing for the next month so you don't have to countdown until payday anymore.
+You have a budget now so you know exactly how much you plan to make and spend monthly. At the end of the month, use the leftover in your Misc expenses budget to start building this 1 month + buffer amount up before you use it to start paying extra towards debt or saving more. After this is built, at the start of every month you'll have enough for your whole monthly budget and paychecks are preparing for the next month so you don't have to countdown until payday anymore.
 
-This peace of mind is important before tackling debt. If you need more peace of mind due to variable income or job insecurity then you may choose to increase the # of months of expenses saved before moving onto the next step.
+This peace of mind is important before tackling debt. If you need more peace of mind due to variable income or job insecurity then you may choose to increase the # of months of income saved before moving onto the next step.
 
 Start a Material Stash
 - A great habit for you and teaching your kids early is to buy new materialistic items with old materialistic item's money. Hobbies come and go and your wants/desires change over time. Learning to sell old toys before buying the next toy is a great habit to learn thoughtful spending and control clutter.
