@@ -8,10 +8,10 @@ There is a lot of vague advice out there so I try to provide specific actions wi
 
 ## Key Points
 - The ultimate goal in life is Happiness.
-  - We seek purpose and fulfillment in life but live in a society where money is traded for our limited time on earth. Financial Freedom frees up time for our familes, hobbies, seeking dreams and sitting back to just appreciate life.
+  - We seek purpose and fulfillment in life but live in a society where money is traded for our limited time on earth. Financial Freedom frees up time for our families, hobbies, seeking dreams and sitting back to just appreciate life.
   - Understand what "Rich" means to you. What would you do if you had financial freedom? Do some soul searching to figure out what gives you meaning/purpose and stop chasing material wants for short-term enjoyment.
 - You only need a credit score if you need a loan.
-  - Everyone is so convinced to build credit mainly to get approved for loans later. You only need a loan when you can't afford something. Learning good saving habits from the start can keep you out of the easily misshandled credit world/trap. More on this controversial topic later...
+  - Everyone is so convinced to build credit mainly to get approved for loans later. You only need a loan when you can't afford something. Learning good saving habits from the start can keep you out of the easily mishandled credit world/trap. More on this controversial topic later...
 - You won't get rich (quickly) working for the man.
   - This roadmap is for the average working Joe to learn how to retire early using passive income generated from hard earned employment savings. Sorry but to get rich quick usually involves starting a business or some dumb luck.
 - Simplify Life.
@@ -26,7 +26,7 @@ You can't start saving until you track your money so let's break the fear of loo
 Create a free account on [Mint.com](http://Mint.com) and add all of your accounts (Banks, Loans, Credit Cards, Assets, Investments)
 -  This will give you a snapshot of your current net worth. Net worth is like your current financial health. It's like how your weight reflects your fitness. It's like your current score in a videogame. You'll see how far above or under water you are if you were to liquidate everything and we'll use this as a baseline to start improving on today.
 -  If you have multiple of the same types of accounts, try to consolidate them and close extra accounts to simplify account management.
--  Be careful consolidating credit cards. Try to avoid balance transfer fees and and get everything to the lowest APR card.
+-  Be careful consolidating credit cards. Try to avoid balance transfer fees and get everything to the lowest APR card.
 -  Move more expensive loans/balances to a home equity loan if you can get a lower rate.
 -  Rollover your retirement accounts to get them into one place by asking the destination company for the forms.
 -  Go to the budgets section in Mint and create the following categories with your monthly goals:
@@ -58,7 +58,7 @@ Medical
 -  If you rarely need medical care and have a high-deductible plan available to you with the ability to contribute pre-tax to a HSA (Health Savings Account) then you should consider it and max out HSA contributions until the balance is above your out of pocket maximum and then you can tone down contributions later to increase savings elsewhere.
   -  HSAs stay with you for life to help pay for a wide range of medical expenses using pre-tax dollars and the funds can be accessed for any purpose after 65.
   -  If you don't have access to a HSA I recommend sticking with a good comprehensive health plan and wouldn't get a high deductible plan without it. There is too much debt risk.
--  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have in the covered year or you can estimate out of pocket costs(medications, co-pays) so you can use pre-tax dollars to pay for these expenses. Try not to over estimate because un-used FSA funds are lost at the end of the year but the funds are available on day 1 of the covered year for use right away.
+-  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have in the covered year or you can estimate out of pocket costs(medications, co-pays) so you can use pre-tax dollars to pay for these expenses. Try not to overestimate because un-used FSA funds are lost at the end of the year but the funds are available on day 1 of the covered year for use right away.
   -  If you have a HSA I would still consider using a FSA first for planned medical expenses to allow your HSA to continue growing for future uses when you may not be able to contribute anymore.
 -  Medical Bills are 0% interest and you don't have to pay them in full right away. Call the company you owe and setup a low monthly payment plan you can afford to keep you out of debt. 
   -  If you're still making payments into a new year or changed plans, use a FSA and/or HSA to help finish them.
@@ -68,13 +68,13 @@ Medical
 
 Dental
 -  Routine dental cleanings can help prevent major dental expenses later and insurance usually covers 2 cleanings per year, x-rays and discounts on major work.
--  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have in the covered year so you can use pre-tax dollars to pay for it. Try not to over estimate because un-used FSA funds are lost at the end of the year but the funds are available on day 1 of the covered year for use right away.
+-  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have in the covered year so you can use pre-tax dollars to pay for it. Try not to overestimate because un-used FSA funds are lost at the end of the year but the funds are available on day 1 of the covered year for use right away.
   -  If you have a HSA I would still consider using a FSA first for planned procedures to allow your HSA to continue growing for future uses when you may not be able to contribute anymore.
 
 Vision
 -  Very cheap insurance to pay for routine eye exams and help offset costs of contacts/glasses but don't need it if you don't wear glasses/contacts.
 -  As an alternative, if you know your prescription, there are websites you can buy glasses and contacts on for very cheap.
--  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have (like LASIK) in the covered year so you can use pre-tax dollars to pay for it. Try not to over estimate because un-used FSA funds are lost at the end of the year but the funds are available on day 1 of the covered year for use right away.
+-  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have (like LASIK) in the covered year so you can use pre-tax dollars to pay for it. Try not to overestimate because un-used FSA funds are lost at the end of the year but the funds are available on day 1 of the covered year for use right away.
   -  If you have a HSA I would still consider using a FSA first for planned procedures to allow your HSA to continue growing for future uses when you may not be able to contribute anymore.
 
 Life
@@ -102,13 +102,13 @@ Umbrella
 -  Play with reducing or increasing your home and auto liability coverages in combination of your umbrella policy coverage to save costs.
 -  Make sure you understand who is covered in your household. Policies are usually very affordable for the potential risks.
 -  Don't get too much coverage over your assets. Lawyers can see how much total liability coverage you have and will usually go after the full amount if anything were to happen.
--  Judge's can rule for you to pay for judgements in the future if you don't have the money/coverage now but there may be cases where bankruptcy may be a viable alternative.
+-  Judges can rule for you to pay for judgements in the future if you don't have the money/coverage now but there may be cases where bankruptcy may be a viable alternative.
 
 A key point with insurance is to adjust coverage as your savings increase. The more stashed up you have, the higher your deductibles can go to reduce reoccurring expenses but making sure to still have enough coverage for catastrophic events. I really don't see a need for other types if you are saving unless you know of something coming in the future (baby).
 
 ### Step 3: Lower Expenses
 
-Marketing propoganda is everywhere and companies are constantly coming up with new schemes to get you to spend your money. It is important to constantly review and be very strict about your monthly reoccurring expenses now that they are visible within your budget. The more you can cut back today, the less interest you'll lose in debt or more interest you'll gain from compounding investments to speed up retirement. For a rough estimate (recommended by MMM) taking a monthly expense saving * 173 will give you the potential value of that savings invested for 10 years. For example, if I cut back $250/month that could turn into $43,250 in 10 years. Compound interest is awesome!
+Marketing propaganda is everywhere and companies are constantly coming up with new schemes to get you to spend your money. It is important to constantly review and be very strict about your monthly reoccurring expenses now that they are visible within your budget. The more you can cut back today, the less interest you'll lose in debt or more interest you'll gain from compounding investments to speed up retirement. For a rough estimate (recommended by MMM) taking a monthly expense saving * 173 will give you the potential value of that savings invested for 10 years. For example, if I cut back $250/month that could turn into $43,250 in 10 years. Compound interest is awesome!
 
 It's time to get frugal and live within the means that will get you to retirement. Here are some tips arranged by budget category:
 
@@ -137,19 +137,19 @@ Auto & Transport: Gas & Fuel
 -  Get a car that suites you needs and nothing more. Having a car bigger than what you need is killing your pocket and a huge waste. You can rent a truck or borrow a friends as needed.
 -  Plan trips to make multiple stops along the way and prevent unnecessary extra trips that can wait.
 -  Consider 1 car for the family. More cars means more headaches and yearly costs and if rarely used is money sitting there that could be invested working for you or to pay off debt.
-  -  Having 1 car can teach you to be more efficient in your commutes, privde some adventure and bring the family together more often.
--  Work from home or change your works hours to limit your commute. talk to your boss about the possibility maybe starting with 1 day a week and increasing based on performance.
+  -  Having 1 car can teach you to be more efficient in your commutes, provides some adventure and bring the family together more often.
+-  Work from home or change your works hours to limit your commute. Talk to your boss about the possibility maybe starting with 1 day a week and increasing based on performance.
 -  Stop driving like a jackass.
 
 Groceries
 -  Find the right mixture of online, grocery store and bulk stores. 
-  -  Break down costs to the oz to find the winner. You can compare costs on the store apps or online.
+  -  Break down costs to the oz. to find the winner. You can compare costs on the store apps or online.
   -  Better quality meats and produce are usually on sale every week and just have to find the right store.
   -  Clip coupons and take advantage of apps like iBotta or Walmart savings catcher that give you rewards cash to spend. 
     -  The app Flipp will let you view your local ads.
   -  Buy pantry items at bulk stores.
-  -  Amazon has a subscribe and save program where you can get 15% off on items you order on a reoccurring basis. This is awesome for diapers, wipes, pet food and random pantry items. However, make sure to keep an eye on the itemn prices, sometimes items go up without warning.
-  -  Use sites like like Honey, PriceBlink, CamelCamelCamel to find coupon codes and recommend sites with lower prices.
+  -  Amazon has a subscribe and save program where you can get 15% off on items you order on a reoccurring basis. This is awesome for diapers, wipes, pet food and random pantry items. However, make sure to keep an eye on the item prices, sometimes items go up without warning.
+  -  Use sites like Honey, PriceBlink, CamelCamelCamel to find coupon codes and recommend sites with lower prices.
 -  Stretch your groceries thin. Don't go back to do a major shop until every item in your pantry and freezer is accounted for. If you make a meal, think of something creative with the leftovers but don’t cook the next meal until the leftovers are gone. 
 -  Eat meals using your fresh groceries first and your dried/canned foods later to reduce waste.
 -  Start a neighborhood garden.
@@ -174,9 +174,10 @@ Free Money
 -  Check to see if you or past family have any unclaimed property at https://www.unclaimed.org/
 -  Register for https://topclassactions.com/ to keep an eye out for settlements you may be entitled to.
 -  I've started a YouTube playlist for short frugal tips [here](https://www.youtube.com/playlist?list=PLYjVznSoJw5Xw5jqcXoSi9d_bJVPMufMd)
+-  Consider making gifts or giving the gift of an experience that has real meaning vs. traditional expensive retail gifts that don't bring much joy.
 
 Pay With CASH
--  Don't get sucked into rewards cards that can get you 3% or less cash back or equivalent (restricted) flight miles (I've done the math). Using cash can save you ~15% per month because of the psychological effects of handing someone your cash. I didn't believe it at first either but it’s true just try it.
+-  Don't get sucked into rewards cards that can get you 3% or less cash back or equivalent (restricted) flight miles (I've done the math). Using cash can save you ~15% per month because of the psychological effects of handing someone your cash. I didn't believe it at first either but its true just try it.
   -  But Sean, I pay off my credit card bill every month and get back money! Yeah I get this and it’s hard to convince people otherwise but most utilities and mortgages won’t let you use a credit card anyways so your other expenses are what’s on the credit card and if scrutinized enough shouldn’t be getting you much cash back anyways. Don’t ever use cash back as the reason to buy something.
 - You don't see the random tip line on a receipt when you pay with cash.
 - It's a truly gratifying sense of pride not having any credit cards. Just knowing the balance of your checking account without having to wait for credit to process is awesome. Use your debit card for automatic payments, they have theft protection also.
@@ -185,7 +186,7 @@ Pay With CASH
   - You can use the Mint "Split Transaction" feature on your ATM withdrawal after it's posted to track cash usage throughout the month.
 
 Kids
-- Kids are great and there are people that want more and more and that is awesome but kids are expensive. I really don't want to discourage people from having kids but it's neccessary to talk about their financial needs.
+- Kids are great and there are people that want more and more and that is awesome but kids are expensive. I really don't want to discourage people from having kids but it's necessary to talk about their financial needs.
 - It's very important for me to make sure I don't have more kids than I can give enough time/love to and unfortunately money can have an impact on that.
 - Kids have lots of medical expenses, have birth costs, use your PTO for sick days, need more food, entertainment, daycare, diapers, clothes, formula, bigger cars, sports and so on... 
 - They can help you save too as a new form of entertainment and definitely change your pre-kids schedule and lifestyle.
@@ -209,7 +210,7 @@ This peace of mind is important before tackling debt. If you need more peace of 
 
 Start a Material Stash
 - A great habit for you and teaching your kids early is to buy new materialistic items with old materialistic item's money. Hobbies come and go and your wants/desires change over time. Learning to sell old toys before buying the next toy is a great habit to learn thoughtful spending and control clutter.
-- Start selling old items on Craigslist, OfferUp, eBay or have a yard sale. You'll learn which of these tools if better for certain items. 
+- Start selling old items on Craigslist, OfferUp, and eBay or have a yard sale. You'll learn which of these tools if better for certain items. 
   - Do the opposite also when you make purchases to find someone else done with the toy you need vs. paying full price. You might hate the toy after buying it and will suffer less of a loss getting rid of it. Yard sales are where the best deals are.
 - Don't be afraid to let go. If you think you'll want something later you'll probably be able to find it newer on Craigslist or eBay down the road for cheaper. Think of this as free temporary storage. 
 - Start going around the house and building this cash stash. If you haven't used something in over 1 year, let it go, it's just sitting there losing value. De-cluttering your house is a rewarding feeling.
@@ -241,11 +242,11 @@ Get rid of all of your credit cards, it's a nice feeling. If an emergency comes 
 
 **Building Passive Investments**
 
-Index funds are mutual funds that follow certain market indexes(benchmarks) like the US stock market, bond market and international markets. They buy shares in all companies within the index to gain the benefits of the whole return. Costs are very very very important in fund choices with hidden fees all over the place and Vanguard funds continue to come out on top. Small cost differences can have a big impact on your long term gains. You also want to make a return every year that can compound vs. going years without a return and this is why diversification between different markets helps to minimize losses. I choose to diversify in a split between 30% US Stock, 20% International Stock, 25% US Bonds and 25% Real estate. Vanguard admiral (lower cost) fund tickers: VTSAX / VTIAX / VBILX / VGSLX. Vanguard non-admiral funds: VTSMX / VGTSX / VBIIX / VGSIX. Make sure to convert to admiral shares once you can, it's based on amount invested. I am not a fan of ETFs for investing. The index ETFs introduce a new cost from the bid/ask spread and also incur trade fees so I'm sticking to the mutual funds.
+Index funds are mutual funds that follow certain market indexes (benchmarks) like the US stock market, bond market and international markets. They buy shares in all companies within the index to gain the benefits of the whole return. Costs are very very very important in fund choices with hidden fees all over the place and Vanguard funds continue to come out on top. Small cost differences can have a big impact on your long term gains. You also want to make a return every year that can compound vs. going years without a return and this is why diversification between different markets helps to minimize losses. I choose to diversify in a split between 30% US Stock, 20% International Stock, 25% US Bonds and 25% Real estate. Vanguard admiral (lower cost) fund tickers: VTSAX / VTIAX / VBILX / VGSLX. Vanguard non-admiral funds: VTSMX / VGTSX / VBIIX / VGSIX. Make sure to convert to admiral shares once you can, it's based on amount invested. I am not a fan of ETFs for investing. The index ETFs introduce a new cost from the bid/ask spread and also incur trade fees so I'm sticking to the mutual funds.
 
-I choose to use a REIT index funds instead of actual real estate because I personally don't like the headaches but managing property can be more rewarding if you choose to go that route. In real estate you can use loans (leverage) to your advantage if done correctly putting 25% down on a property and eventually building cashflow + leveraging the equity or reselling to get into bigger deals. Keep in mind though at some point your real estate investing becomes a business as you rinse/repeat this cycle and manage the properties. 
+I choose to use a REIT index funds instead of actual real estate because I personally don't like the headaches but managing property can be more rewarding if you choose to go that route. In real estate you can use loans (leverage) to your advantage if done correctly putting 25% down on a property and eventually building cash flow + leveraging the equity or reselling to get into bigger deals. Keep in mind though at some point your real estate investing becomes a business as you rinse/repeat this cycle and manage the properties. 
 
-If you are planning to keep your house for a long time you can leverage the equity in the house to work for you in investments vs. letting it sit in the ground doing nothing. You will want to compare the rates of a home equity loan vs. a cash out refinance. If you have cash to buy a home outright you could instead put 25% down and invest the rest to cover the insterest + some additional gains. This ultimately depends on if you're still trying to grow your nest egg or happy where you're at.
+If you are planning to keep your house for a long time you can leverage the equity in the house to work for you in investments vs. letting it sit in the ground doing nothing. You will want to compare the rates of a home equity loan vs. a cash out refinance. If you have cash to buy a home outright you could instead put 25% down and invest the rest to cover the interest + some additional gains. This ultimately depends on if you're still trying to grow your nest egg or happy where you're at.
 
 My portfolio is still a bit stock heavy so if you are in retirement or close to it you may want to adjust with more bond holdings to reduce risk. However, even after I retire I currently plan to keep this split because I won't be cashing out all at once and will still be in the market for (hopefully) a long time making minimal withdrawals (4% or less per year). If you've heard US bonds and stocks move in opposite directions, that's a myth. You could have years where they are both down so being in other investments like international stock and real estate can help reduce losses with diversification.
 
@@ -257,7 +258,7 @@ If you're saving for a particular purchase (down payment for a house) then consi
 
 **Long-Term Retirement**
 
-Some pre-tax accounts like 401Ks don't offer all funds available in the market but offer employer matches so find funds that are similar to the ones I mentioned but make sure their expense ratios are low. Picking a target fund instead is better than nothing but they have higher costs and don't have the same level of diversification. They also change their asset allocation % at specific times and you may rather want to control that change by selling your assets that are over-performing vs. selling many underperforming assets and vice versa for buying. Make sure to put in the full % that your employer matches, it's free money! But remember, don't invest in your company's stock; If the company or sector goes down, so does your stock. 
+Some pre-tax accounts like 401Ks don't offer all funds available in the market but offer employer matches so find funds that are similar to the ones I mentioned but make sure their expense ratios are low. Picking a target fund instead is better than nothing but they have higher costs and don't have the same level of diversification. They also change their asset allocation % at specific times and you may rather want to control that change by selling your assets that are over-performing vs. selling many underperforming assets and vice versa for buying. Make sure to put in the full % that your employer matches, it's free money! But remember, don't invest in your company's stock; if the company or sector goes down, so does your stock. 
 
 If you've left a company make sure to rollover the 401K into a traditional IRA to take advantage of better fund options. If under 55, you can also slowly work on converting/taxing this money into a Roth IRA being mindful that conversion amounts are counted towards your ordinary income and could affect your tax bracket. This may not make sense when within high tax brackets but you can convert traditional IRAs to Roths until 70 years of age.
 
@@ -265,18 +266,18 @@ Post-Tax Roth IRAs should be maxed out yearly choosing the Vanguard funds I ment
 - I like Roth IRAs over Traditional IRAs because when you retire traditional withdrawals will count towards your ordinary income tax bracket on top of social security, 401K income, any extra employment income plus you will probably have less tax deductions at retirement. Taxes could also be higher so I prefer to have the tax worries behind me and not bet on being in the lowest tax bracket.
 - You are also not forced to withdrawal a Roth if you wish to hand it down and the funds are also more easily accessible if you need them for another reason.
 - The best part is that you aren't paying taxes on any of your earnings during withdrawals like you would be with the traditional as long as the Roth has been around for 5 years.
-- If you are not eligible for Roth IRAs due to income limits you can take advantage of back door roths. Open a traditional IRA and immedietly convert it to a Roth after your contribution. 
+- If you are not eligible for Roth IRAs due to income limits you can take advantage of back door roths. Open a traditional IRA and immediately convert it to a Roth after your contribution. 
   - Only do this if you are under 55 and don't have other non-roth IRAs or else you will pay taxes on your conversion.
 
-Using this strategy early should set you up pretty well when you can access the funds at 60. You could put more into your 401K if you'd like but I want to retire earlier than 60 so I choose to put the extra money in my early retirement accounts. I'll have plenty for long term retirement with my current contributions. If you're already close to 60 you may rather choose to max out these tax-advantaged accounts. You have to take into account your current age along with your early retirement estimated date. You may only have the opportunity to invest in a 401K until you retire early (and don't have an employer) so use a compound interest calculator to determine the right amount to put into long-term retirement accounts to give you the amount you'll need later for withdrawals to cover your expenses. The safe withdrawal rate recommends an amount of 4% per year to cover expenses until you die.
+Using this strategy early should set you up pretty well when you can access the funds at 60. You could put more into your 401K if you'd like but I want to retire earlier than 60 so I choose to put the extra money in my early retirement accounts. I'll have plenty for long term retirement with my current contributions. If you're already close to 60 you may rather choose to max out these tax-advantaged accounts. You have to take into account your current age along with your early retirement estimated date. You may only have the opportunity to invest in a 401K until you retire early (and don't have an employer) so use a compound interest calculator to determine the right amount to put into long-term retirement accounts to give you the amount you'll need later for withdrawals to cover your expenses. Use a savings withdrawal calculator to determine the amount you need to save to cover x years of expenses before making withdraws. The safe withdrawal rate suggests that a bond/stock mix portfolio could withdrawal 4% per year for a 96% success rate to last 30 years.
 
 **Early Retirement**
 
-This may sound crazy but saving at least 50% of your monthly income is an important step towards retiring early and not impossible. Keep at it and you'll get there while increasing income and decreasing expenses. If you've been in the same job for a while, consider looking for new opportunities while you have a job. Yearly raises in your current job are usually very small and may require you to change companies for the large increase you desire. I don’t use savings accounts, they are pretty useless for investments and prefer rather to keep money in the checking account and move savings to investments. Your savings rate can be calculated from money you put away for retirement, college, investments, etc.. compared to your income.
+This may sound crazy but saving at least 50% of your monthly income is an important step towards retiring early and not impossible. Keep at it and you'll get there while increasing income and decreasing expenses. If you've been in the same job for a while, consider looking for new opportunities while you have a job. Yearly raises in your current job are usually very small and may require you to change companies for the large increase you desire. I don’t use savings accounts, they are pretty useless for investments and prefer rather to keep money in the checking account and move savings to investments. Your savings rate can be calculated from money you put away for retirement, college, investments, etc.. compared to your income (Savings / (Gross - Taxes)).
 
 Since I invest in all Vanguard funds, I recommend opening your (early retirement) brokerage account with Vanguard and you'll avoid transaction fees for buying and selling their funds. It's easy to setup money transfers from your checking account and see your asset allocation % using their website to rebalance as needed. Hold any investments for at least 1 year for tax benefits and even though this is for early retirement, it's still a long term hold positon with small withdrawals starting at your early retirement date sometime before 60.
 
-It's important to keep in mind how long you need early retirement accounts to pay for your expenses before your long-term accounts are available at 60. You may choose to adjust more into one or the other based on your time horizon. However, you are also not required to withdraw your long-term accounts right at 60 if your early retirement funds can hold you off longer to keep the long-term tax-advantaged accounts building for later withdrawals.
+It's important to keep in mind how long you need early retirement accounts to pay for your expenses before your long-term accounts are available at 60. You may choose to adjust more into one or the other based on your time horizon. However, you are also not required to withdraw your long-term accounts right at 60 if your early retirement funds can hold you off longer to keep the long-term tax-advantaged accounts building for later withdrawals. Use a savings withdrawal calculator to determine when to start making withdrawals.
 
 You may not care for the markets or real estate and would rather just put extra money towards paying off the house early and be OK with the equity sitting there not making any money. Or, pay it off early to earn the interest loss back as a safe (low) return and then sell the house. Whatever floats your boat.
 
@@ -284,11 +285,11 @@ Be an entrepreneur on the side! Starting a business can be a quick way to earn a
 
 **College**
 
-Save for your kid’s college with a Vanguard 529 plan. Tax advantages are king so being able to set aside money for them that you can't touch may be a good idea. I do a 55/25/20 split for the Stock/Bond/International index funds but remeber to adjust with less risk closer to college. I don't like the automatic rebalance plans for the same reasons I don't like target funds (described above).
+Save for your kid’s college with a Vanguard 529 plan. Tax advantages are king so being able to set aside money for them that you can't touch may be a good idea. I do a 55/25/20 split for the Stock/Bond/International index funds but remember to adjust with less risk closer to college. I don't like the automatic rebalance plans for the same reasons I don't like target funds (described above).
 
 However, don't tell your kids you're saving for them! Give your children a reason to work hard and maybe let them work a job to pay for the first year of their college until they have things figured out before wasting college money they didn't work for. Or maybe you setup a clever reimbursement plan for them. There is nothing wrong with community college for the first 2 years to save money while figuring things out before transferring to a better university. Making them work part time to help pay and to start saving for retirement is even better.
 
-You could use a Roth IRA for your child but you can't open it up until they earn income which is close to college and I wouldn't reccomend using your own with the limited contribution amounts.
+You could use a Roth IRA for your child but you can't open it up until they earn income which is close to college and I wouldn't recommend using your own with the limited contribution amounts.
 
 **Funny Money / Gambles**
 
@@ -298,7 +299,7 @@ Take some risks! Long term investing is boring and you'll need something to get 
 
 You may have to hunker down for a bit to get above water but should remember to enjoy the journey along the way. Have fun talking about money with your family and reward yourselves when you reach certain milestones. You could die tomorrow so give yourself a plan that provides some peace knowing that retirement is just a matter of time. 
 
-Maybe reduce your savings rate once you're out of debt if you need a little extra money to enjoy life as long as you're still happy with your retirement plan. You don't have to live a strapped life but I think it's necessary until you're out of debt to learn a lesson about overspending. However, don't be cheap to a fault. There will be times on occassion where it just feels right to buy someone else's lunch or be charitable to bring you joy. Cut back in other places so you can take advantage of those rare opportunities. Maybe even make a certain % of your budget for charity but don't forget to help yourself along the way, you can't give from an empty cup.
+Maybe reduce your savings rate once you're out of debt if you need a little extra money to enjoy life as long as you're still happy with your retirement plan. You don't have to live a strapped life but I think it's necessary until you're out of debt to learn a lesson about overspending. However, don't be cheap to a fault. There will be times on occasion where it just feels right to buy someone else's lunch or be charitable to bring you joy. Cut back in other places so you can take advantage of those rare opportunities. Maybe even make a certain % of your budget for charity but don't forget to help yourself along the way, you can't give from an empty cup.
 
 Don't be afraid to fix things yourself, it can be a rewarding feeling that also saves you money and may even introduce you to a new trade. However, also know when it's worth the time saved to pay someone else while being mindful of the hit on your savings. Money can be used to reduce some of the complications of our lifestyle but should be kept within means to keep you on your path to retirement.
 
