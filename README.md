@@ -152,6 +152,7 @@ Groceries
   -  Amazon has a subscribe and save program where you can get 15% off on items you order on a reoccurring basis. This is awesome for diapers, wipes, pet food and random pantry items. However, make sure to keep an eye on the item prices, sometimes items go up without warning.
   -  Use sites like Honey, PriceBlink, CamelCamelCamel to find coupon codes and recommend sites with lower prices.
 -  Stretch your groceries thin. Don't go back to do a major shop until every item in your pantry and freezer is accounted for. If you make a meal, think of something creative with the leftovers but don’t cook the next meal until the leftovers are gone. This will reduce waste and teach you to be creative and maybe enjoy cooking.
+-  If you find yourself wasting leftovers, stop making extra! Split your groceries up into smaller portions and freeze them to cook a smaller amount each time. For example, if you can't eat a whole pork loin cut half of it into pork chops and freeze for a later time.
 -  Meal planning doesn't work for me and usually takes way too much time and I prefer just buying what's on sale and coming up with creative frugal meals from there.
 -  Eat meals using your fresh groceries first and your dried/canned foods later to reduce waste.
 -  Start a neighborhood garden.
@@ -308,6 +309,8 @@ Maybe reduce your savings rate once you're out of debt if you need a little extr
 Don't be afraid to fix things yourself, it can be a rewarding feeling that also saves you money and may even introduce you to a new trade. However, also know when it's worth the time saved to pay someone else while being mindful of the hit on your savings. Money can be used to reduce some of the complications of our lifestyle but should be kept within means to keep you on your path to retirement.
 
 A downfall of being human is that is always seems we want the next thing in life. We get bored quick and ready for change shortly after something new. Be mindful of the present moment because that's all you ever have. Take a breath and just enjoy being alive.
+
+When you're young and start making some money, it's very easily blown hanging out with friends and partying. I totally get it and was stubborn about listening to financial advice as well when I was new to the game. Just ask yourself "How long do I want to be working for the man?" The sooner you start that planning, the younger you'll be able to retire. There are plenty of creative ways to have fun without throwing your money away in the process.
 
 Once you're passive income from retirement investment withdrawals can start paying for your monthly expenses, congrats you can retire! You have the power of savings! Work when you want to and enjoy more special moments with your free time. This is my roadmap and I look forward to sharing future steps on the other side. I look forward to being a kid again...
 
