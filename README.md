@@ -176,7 +176,7 @@ Free Money
 -  Check http://www.benefits.gov/ for grants and tax credits that may apply to you. There is a ton for students, lower income individuals and children.
 -  Check to see if you or past family have any unclaimed property at https://www.unclaimed.org/
 -  Register for https://topclassactions.com/ to keep an eye out for settlements you may be entitled to.
--  I've started a YouTube playlist for short frugal tips [here](https://www.youtube.com/playlist?list=PLYjVznSoJw5Xw5jqcXoSi9d_bJVPMufMd)
+-  I've started a YouTube playlist for short frugal tips at [frugalshorts.com](http://frugalshorts.com)
 -  Consider making gifts or giving the gift of an experience that has real meaning vs. traditional expensive retail gifts that don't bring much joy.
 
 Pay With CASH
