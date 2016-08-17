@@ -131,6 +131,7 @@ Bills & Utilities
 -  Wash your hands and dishes with cold water. The soap does the work, you couldn't touch water hot enough to kill germs.
 -  Turn your hot water heater down to a level that works for you.
 -  Turn the house temp higher in the summer and lower in the winter just wear the right clothing in your house. Open your windows to help with a box fan. Adjust what you sleep in and number of bed sheets for night time. 
+  -  If it's 90-100 degrees out your AC shouldn't be lower than 75-78. Insulate your house and find air leaks using an infrared thermometer. Close your blinds and curtains during the day on the side of the house facing the sun.
   -  HVAC service plans are a waste of money and large companies usually try to sell you new units instead of a cheap fix. Buy cheap air filters and change them as needed.
 -  Some bills offer a lump sum discount vs. monthly payments. Take advantage of these if you are sure there is no possibility of canceling within the covered timeframe.
 -  Never buy extended warranties. Companies sell warranties because they know they're never used! Think about if a warranty is really worth the delayed early retirement next time.
