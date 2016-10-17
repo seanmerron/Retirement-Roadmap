@@ -95,20 +95,27 @@ Daycare
 Auto
 -  Geico has always been the cheapest during my price shopping.
 -  If you've ever had a bad mark in your history while having one company, shop around because you'll most likely always be marked by that company and can find cheaper elsewhere.
--  Liability and uninsured motorist coverage is pretty important to cover medical expenses for you and others from accidents. Limits should be what you think medical bills / injury law suits could get up to.
+-  Liability and uninsured motorist coverage is pretty important to cover medical expenses for you and others from accidents. If income is super low and the only assets you have are protected by state law then you could hold state minimums at the least but slgihtly higher coverage may not be a large difference in price to protect from forced liquidation of assets or garnished wages for suits.
 -  Collision is your deductible to repair damages to your car if you cause the accident. Your deductible should be how high you're willing to pay for an expense before wanting to make a claim on your insurance. I've always figured I'll take care of anything under $1,000 on my own vs. making a claim. Eventually you may not want this coverage at all if your car is only worth a few thousand and figure you'll just replace the car if anything happens instead of paying the extra insurance costs.
 -  Comprehensive covers any damage incurred not by hitting a vehicle like theft, fire, floods, vandalism, animals which again isn't worth it once your car isn't worth much anyways or you don't live in an area where this is a problem. Same deductible principals as collision apply.
+-  The more expensive the car the more full coverage you'll want but cheap vehicles really only need liability. Uninsured motorist coverage is really important.
+
+Renters/Homeonwers
+-  It is possible to get a multiline discount bundling with auto but brokers can sometimes be cheaper for homeowners.
+-  Homeowners deductables can be raised for cheaper premiums and I prefer to only have it for catastrophic repairs.
+-  Beware since homeowners is usually paid in escrow many insurance companies raise their rates after the first year without you noticing.
+-  Don't have more coverage for damages then the value of your assets in the house.
 
 Umbrella
 -  As your net worth starts increasing and you have assets outside of your main home, car and retirements accounts (which are protected to a degree) you'll want to consider umbrella insurance for lawsuit protection.
--  This insurance adds additional liability insurance on top of you auto and home insurance plus protection from certain lawsuits like libel, slander, invasion of privacy and false arrest.
--  Ensure the policy is a "true" umbrella policy and not a "following form" policy that only sits on top of certain policies you have with the same company.
--  Play with reducing or increasing your home and auto liability coverages in combination of your umbrella policy coverage to save costs.
+-  This insurance adds additional liability insurance on top of your auto and home/renters insurance plus protection from certain lawsuits like libel, slander, invasion of privacy and false arrest.
+-  Ensure the policy is a "true" umbrella policy and not a "following form" policy that only sits on top of certain policies you have with the same company. This means if you have auto or hom with someone else the policy will still sit on top of those coverages. However, usually cheaper to bundle with other insurance.
+-  Having umbrella requires your auto and home/renters insurance to be raised to a certain minimum or there will be a gap in insurance that you would be responsible for. Umbrella will usually extend your auto coverage to worldwide.
 -  Make sure you understand who is covered in your household. Policies are usually very affordable for the potential risks.
 -  Don't get too much coverage over your assets. Lawyers can see how much total liability coverage you have and will usually go after the full amount if anything were to happen.
 -  Judges can rule for you to pay for judgements in the future if you don't have the money/coverage now but there may be cases where bankruptcy may be a viable alternative.
 
-A key point with insurance is to adjust coverage as your savings increase. The more stashed up you have, the higher your deductibles can go to reduce reoccurring expenses but making sure to still have enough coverage for catastrophic events. I really don't see a need for other types if you are saving unless you know of something coming in the future (baby).
+A key point with insurance is to adjust coverage as your savings increase. The more stashed up you have, the higher your deductibles can go to reduce reoccurring expenses but making sure to still have enough coverage for catastrophic events. I really don't see a need for other types if you are saving unless you know of something coming in the future (baby). Also, you can save if you pay the full premium vs. split it up monthly with surcharges. However, I'm not sure if this would beneficial for auto in case the car was lost during the covered year.
 
 ### Step 3: Lower Expenses
 
