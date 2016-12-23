@@ -4,6 +4,10 @@ This guide is an open and ever-changing list of steps I've compiled from various
 
 There is a lot of vague advice out there so I try to provide specific actions with details. This roadmap is far from perfect and could be completely different for you depending on your life situation. You won't agree with everything and that's OK but please share your thoughts.
 
+- Checkout my podcast 2 Frugal Dudes at http://2frugaldudes.com/
+- For small frugal tips watch http://frugalshorts.com/
+- Calculate when you can retire early at http://fireagecalc.com/
+
 *This page can be edited by anyone [here](https://github.com/seanmerron/Retirement-Roadmap/edit/master/README.md) using [Markdown](https://guides.github.com/features/mastering-markdown/) syntax*
 
 ## Key Points
@@ -63,7 +67,7 @@ Medical
   -  HSAs stay with you for life to help pay for a wide range of medical expenses using pre-tax dollars and the funds can be accessed for any purpose after 65.
   -  If you don't have access to a HSA I recommend sticking with a good comprehensive health plan and wouldn't get a high deductible plan without it. There is too much debt risk.
 -  Get a FSA (Flexible Spending Account) if you know of a procedure you need to have in the covered year or you can estimate out of pocket costs(medications, co-pays) so you can use pre-tax dollars to pay for these expenses. Try not to overestimate because un-used FSA funds are lost at the end of the year but the funds are available on day 1 of the covered year for use right away.
-  -  If you have a HSA I would still consider using a FSA first for planned medical expenses to allow your HSA to continue growing for future uses when you may not be able to contribute anymore.
+  -  If you have a HSA plan you usually don't have access to a Health FSA but can still get the Dental/Vision only.
 -  Medical Bills are 0% interest and you don't have to pay them in full right away. Call the company you owe and setup a low monthly payment plan you can afford to keep you out of debt. 
   -  If you're still making payments into a new year or changed plans, use a FSA and/or HSA to help finish them.
 -  Prescriptions are often cheaper when re-ordered in higher quantities and many manufacturers offer coupons.
@@ -169,6 +173,7 @@ Groceries
 -  Meal planning doesn't work for me and usually takes way too much time and I prefer just buying what's on sale and coming up with creative frugal meals from there.
 -  Eat meals using your fresh groceries first and your dried/canned foods later to reduce waste.
 -  Start a neighborhood garden.
+-  Some stores offer free pickup with online orders. This will keep you from picking up other items during yourgrocery shopping to stick to your budget and save you time.
 
 Entertainment
 -  Use fast food coupons. They're everywhere.
